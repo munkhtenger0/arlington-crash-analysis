@@ -1,0 +1,1201 @@
+year,month,day,hour,street,crash_type,severity,lighting,weather,speed_limit,pedestrians_involved,cyclists_involved,date
+2019,1,24,10,Arlington Blvd,Angle,Serious Injury,Dark - Lighted,Rain,30,0,0,2019-01-24
+2019,11,24,16,N Pershing Dr,Rear-End,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2019-11-24
+2019,2,7,5,Glebe Rd,Pedestrian Involved,Injury,Daylight,Rain,30,1,0,2019-02-07
+2023,7,8,17,Washington Blvd,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Cloudy,25,1,0,2023-07-08
+2020,12,14,19,Clarendon Blvd,Sideswipe,Property Damage Only,Dark - Lighted,Clear,30,0,0,2020-12-14
+2021,2,3,7,N Fairfax Dr,Rear-End,Property Damage Only,Dark - Unlighted,Clear,35,0,0,2021-02-03
+2023,5,26,12,Wilson Blvd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Rain,25,0,1,2023-05-26
+2022,2,18,6,Arlington Blvd,Single Vehicle,Property Damage Only,Dark - Unlighted,Clear,30,0,0,2022-02-18
+2019,1,22,12,Glebe Rd,Single Vehicle,Injury,Dark - Unlighted,Clear,25,0,0,2019-01-22
+2020,2,13,14,Arlington Blvd,Head-On,Property Damage Only,Dark - Unlighted,Clear,30,0,0,2020-02-13
+2021,6,7,16,Arlington Blvd,Bicycle Involved,Property Damage Only,Daylight,Clear,30,0,1,2021-06-07
+2023,12,8,21,Lee Hwy,Head-On,Serious Injury,Dawn/Dusk,Snow/Ice,35,0,0,2023-12-08
+2023,4,22,8,Clarendon Blvd,Single Vehicle,Property Damage Only,Daylight,Rain,30,0,0,2023-04-22
+2019,6,13,12,Arlington Blvd,Rear-End,Property Damage Only,Dark - Lighted,Clear,35,0,0,2019-06-13
+2020,11,16,2,N Fairfax Dr,Bicycle Involved,Serious Injury,Dawn/Dusk,Clear,30,0,1,2020-11-16
+2021,3,8,17,N Pershing Dr,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Clear,45,1,0,2021-03-08
+2023,7,12,14,Glebe Rd,Angle,Property Damage Only,Dawn/Dusk,Cloudy,25,0,0,2023-07-12
+2019,2,5,18,Lee Hwy,Single Vehicle,Serious Injury,Dawn/Dusk,Fog,25,0,0,2019-02-05
+2022,7,20,16,Washington Blvd,Pedestrian Involved,Serious Injury,Dark - Unlighted,Clear,25,1,0,2022-07-20
+2019,11,18,7,Arlington Blvd,Single Vehicle,Property Damage Only,Dark - Unlighted,Clear,25,0,0,2019-11-18
+2021,7,6,10,Washington Blvd,Rear-End,Property Damage Only,Dark - Unlighted,Snow/Ice,30,0,0,2021-07-06
+2023,2,28,10,Arlington Blvd,Single Vehicle,Property Damage Only,Dark - Lighted,Clear,30,0,0,2023-02-28
+2021,3,18,6,N Pershing Dr,Rear-End,Injury,Dark - Unlighted,Clear,45,0,0,2021-03-18
+2019,2,12,23,Arlington Blvd,Angle,Injury,Daylight,Clear,30,0,0,2019-02-12
+2023,2,3,0,Washington Blvd,Single Vehicle,Injury,Daylight,Rain,30,0,0,2023-02-03
+2020,11,16,17,N Pershing Dr,Angle,Injury,Dark - Unlighted,Clear,45,0,0,2020-11-16
+2020,9,25,10,Glebe Rd,Bicycle Involved,Property Damage Only,Dark - Unlighted,Fog,45,0,1,2020-09-25
+2021,8,17,16,Washington Blvd,Rear-End,Property Damage Only,Dark - Lighted,Clear,30,0,0,2021-08-17
+2019,6,1,9,S Walter Reed Dr,Pedestrian Involved,Property Damage Only,Dark - Lighted,Rain,30,1,0,2019-06-01
+2019,2,23,16,Wilson Blvd,Angle,Injury,Daylight,Clear,25,0,0,2019-02-23
+2021,2,17,6,Glebe Rd,Sideswipe,Injury,Dawn/Dusk,Snow/Ice,30,0,0,2021-02-17
+2023,3,24,15,S Walter Reed Dr,Pedestrian Involved,Injury,Dawn/Dusk,Clear,30,1,0,2023-03-24
+2022,7,7,14,Columbia Pike,Rear-End,Property Damage Only,Dawn/Dusk,Clear,35,0,0,2022-07-07
+2022,7,15,6,Wilson Blvd,Bicycle Involved,Property Damage Only,Daylight,Rain,25,0,1,2022-07-15
+2022,12,11,9,Columbia Pike,Angle,Property Damage Only,Dark - Lighted,Cloudy,30,0,0,2022-12-11
+2023,8,5,8,N Fairfax Dr,Angle,Property Damage Only,Dark - Unlighted,Snow/Ice,45,0,0,2023-08-05
+2020,2,15,7,N Pershing Dr,Rear-End,Property Damage Only,Daylight,Clear,25,0,0,2020-02-15
+2019,4,6,7,N Fairfax Dr,Head-On,Serious Injury,Dawn/Dusk,Snow/Ice,30,0,0,2019-04-06
+2022,1,6,16,N Fairfax Dr,Rear-End,Injury,Dawn/Dusk,Snow/Ice,35,0,0,2022-01-06
+2022,5,14,7,N Pershing Dr,Bicycle Involved,Injury,Dawn/Dusk,Clear,30,0,1,2022-05-14
+2020,5,7,18,Wilson Blvd,Pedestrian Involved,Injury,Daylight,Clear,35,1,0,2020-05-07
+2019,1,19,6,Washington Blvd,Pedestrian Involved,Property Damage Only,Dark - Lighted,Clear,25,1,0,2019-01-19
+2023,2,28,18,Lee Hwy,Rear-End,Injury,Daylight,Clear,30,0,0,2023-02-28
+2022,2,19,13,Glebe Rd,Pedestrian Involved,Property Damage Only,Daylight,Clear,25,1,0,2022-02-19
+2022,11,19,6,S Walter Reed Dr,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Cloudy,35,1,0,2022-11-19
+2020,11,23,9,Clarendon Blvd,Angle,Property Damage Only,Dark - Unlighted,Rain,45,0,0,2020-11-23
+2020,11,21,10,Arlington Blvd,Head-On,Fatal,Dark - Unlighted,Cloudy,25,0,0,2020-11-21
+2019,8,20,8,S Walter Reed Dr,Rear-End,Property Damage Only,Daylight,Clear,30,0,0,2019-08-20
+2023,5,5,8,Clarendon Blvd,Rear-End,Property Damage Only,Dark - Lighted,Rain,35,0,0,2023-05-05
+2021,3,15,13,N Pershing Dr,Bicycle Involved,Property Damage Only,Dark - Unlighted,Clear,25,0,1,2021-03-15
+2023,5,22,20,Columbia Pike,Angle,Property Damage Only,Dark - Unlighted,Clear,25,0,0,2023-05-22
+2019,12,18,13,Lee Hwy,Sideswipe,Fatal,Dark - Unlighted,Clear,30,0,0,2019-12-18
+2021,4,22,17,Arlington Blvd,Pedestrian Involved,Injury,Dawn/Dusk,Clear,35,1,0,2021-04-22
+2019,2,21,17,N Fairfax Dr,Single Vehicle,Property Damage Only,Dark - Unlighted,Rain,25,0,0,2019-02-21
+2019,6,25,16,Lee Hwy,Bicycle Involved,Property Damage Only,Dark - Unlighted,Clear,30,0,1,2019-06-25
+2022,9,23,19,N Fairfax Dr,Pedestrian Involved,Property Damage Only,Daylight,Clear,25,1,0,2022-09-23
+2019,12,5,3,N Pershing Dr,Rear-End,Property Damage Only,Dark - Unlighted,Rain,30,0,0,2019-12-05
+2022,3,2,0,Arlington Blvd,Sideswipe,Property Damage Only,Daylight,Clear,35,0,0,2022-03-02
+2020,11,8,16,Columbia Pike,Sideswipe,Property Damage Only,Dawn/Dusk,Rain,30,0,0,2020-11-08
+2020,3,26,10,Lee Hwy,Head-On,Serious Injury,Daylight,Clear,30,0,0,2020-03-26
+2021,7,26,9,Glebe Rd,Sideswipe,Property Damage Only,Dark - Lighted,Cloudy,25,0,0,2021-07-26
+2022,1,28,19,Washington Blvd,Angle,Property Damage Only,Dark - Lighted,Rain,45,0,0,2022-01-28
+2021,5,27,18,Glebe Rd,Angle,Property Damage Only,Daylight,Clear,30,0,0,2021-05-27
+2022,6,9,8,Columbia Pike,Single Vehicle,Property Damage Only,Dark - Unlighted,Fog,35,0,0,2022-06-09
+2023,7,22,20,N Pershing Dr,Sideswipe,Injury,Daylight,Clear,25,0,0,2023-07-22
+2021,3,19,9,Arlington Blvd,Rear-End,Injury,Daylight,Fog,45,0,0,2021-03-19
+2021,12,26,20,Clarendon Blvd,Head-On,Injury,Daylight,Rain,45,0,0,2021-12-26
+2023,4,9,5,Wilson Blvd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Fog,25,0,1,2023-04-09
+2023,9,22,16,Glebe Rd,Sideswipe,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2023-09-22
+2021,10,11,17,Columbia Pike,Bicycle Involved,Property Damage Only,Dark - Unlighted,Clear,35,0,1,2021-10-11
+2022,6,13,14,Arlington Blvd,Pedestrian Involved,Injury,Dark - Lighted,Rain,30,1,0,2022-06-13
+2022,11,13,7,Lee Hwy,Pedestrian Involved,Injury,Dark - Unlighted,Clear,45,1,0,2022-11-13
+2023,1,10,9,Arlington Blvd,Angle,Injury,Dawn/Dusk,Rain,35,0,0,2023-01-10
+2022,8,15,19,Glebe Rd,Pedestrian Involved,Injury,Dawn/Dusk,Rain,30,1,0,2022-08-15
+2019,5,17,6,S Walter Reed Dr,Sideswipe,Property Damage Only,Daylight,Clear,30,0,0,2019-05-17
+2021,4,26,8,Glebe Rd,Angle,Fatal,Daylight,Clear,25,0,0,2021-04-26
+2020,8,20,20,Columbia Pike,Head-On,Injury,Dawn/Dusk,Snow/Ice,30,0,0,2020-08-20
+2022,8,13,13,Glebe Rd,Angle,Property Damage Only,Daylight,Clear,25,0,0,2022-08-13
+2022,4,6,7,N Pershing Dr,Head-On,Injury,Daylight,Clear,30,0,0,2022-04-06
+2019,8,5,1,Washington Blvd,Bicycle Involved,Injury,Dark - Unlighted,Clear,45,0,1,2019-08-05
+2023,12,17,21,N Fairfax Dr,Single Vehicle,Serious Injury,Dawn/Dusk,Cloudy,30,0,0,2023-12-17
+2022,8,9,10,Glebe Rd,Single Vehicle,Property Damage Only,Dark - Unlighted,Cloudy,45,0,0,2022-08-09
+2020,5,15,11,Columbia Pike,Bicycle Involved,Serious Injury,Dark - Unlighted,Cloudy,30,0,1,2020-05-15
+2021,6,11,19,N Pershing Dr,Rear-End,Property Damage Only,Dark - Lighted,Clear,30,0,0,2021-06-11
+2020,7,23,19,Lee Hwy,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,25,0,1,2020-07-23
+2022,7,11,15,N Pershing Dr,Head-On,Serious Injury,Dawn/Dusk,Rain,25,0,0,2022-07-11
+2020,7,13,15,S Walter Reed Dr,Bicycle Involved,Property Damage Only,Daylight,Rain,45,0,1,2020-07-13
+2022,1,12,23,Arlington Blvd,Single Vehicle,Property Damage Only,Dawn/Dusk,Clear,45,0,0,2022-01-12
+2023,12,24,19,N Pershing Dr,Single Vehicle,Injury,Dark - Lighted,Rain,45,0,0,2023-12-24
+2020,5,14,17,Washington Blvd,Rear-End,Property Damage Only,Dawn/Dusk,Clear,35,0,0,2020-05-14
+2022,12,6,18,Washington Blvd,Angle,Injury,Daylight,Fog,45,0,0,2022-12-06
+2023,10,22,20,Wilson Blvd,Rear-End,Property Damage Only,Dawn/Dusk,Clear,30,0,0,2023-10-22
+2022,3,2,18,Arlington Blvd,Head-On,Injury,Dark - Unlighted,Rain,30,0,0,2022-03-02
+2022,6,11,18,N Fairfax Dr,Sideswipe,Injury,Dawn/Dusk,Clear,35,0,0,2022-06-11
+2019,8,1,10,N Pershing Dr,Rear-End,Property Damage Only,Dark - Unlighted,Rain,30,0,0,2019-08-01
+2019,11,2,2,Wilson Blvd,Angle,Property Damage Only,Dark - Lighted,Clear,25,0,0,2019-11-02
+2023,3,8,8,Lee Hwy,Head-On,Property Damage Only,Daylight,Clear,30,0,0,2023-03-08
+2022,12,9,2,Clarendon Blvd,Angle,Injury,Daylight,Clear,30,0,0,2022-12-09
+2021,2,19,6,Wilson Blvd,Sideswipe,Property Damage Only,Dawn/Dusk,Snow/Ice,45,0,0,2021-02-19
+2020,2,19,7,Glebe Rd,Rear-End,Injury,Dark - Unlighted,Clear,25,0,0,2020-02-19
+2023,1,12,4,N Pershing Dr,Head-On,Property Damage Only,Dark - Unlighted,Clear,25,0,0,2023-01-12
+2023,11,11,16,Wilson Blvd,Single Vehicle,Injury,Dawn/Dusk,Cloudy,45,0,0,2023-11-11
+2019,7,12,14,Washington Blvd,Bicycle Involved,Property Damage Only,Dark - Lighted,Snow/Ice,45,0,1,2019-07-12
+2020,12,17,8,Arlington Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Clear,45,1,0,2020-12-17
+2022,12,19,1,Arlington Blvd,Sideswipe,Serious Injury,Dark - Lighted,Snow/Ice,25,0,0,2022-12-19
+2021,8,8,17,Washington Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Clear,35,1,0,2021-08-08
+2019,8,28,7,Clarendon Blvd,Angle,Property Damage Only,Dawn/Dusk,Clear,30,0,0,2019-08-28
+2021,5,11,17,Arlington Blvd,Pedestrian Involved,Injury,Dark - Unlighted,Clear,25,1,0,2021-05-11
+2023,4,3,22,Glebe Rd,Bicycle Involved,Injury,Dawn/Dusk,Rain,45,0,1,2023-04-03
+2023,4,23,16,Washington Blvd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,45,0,1,2023-04-23
+2019,2,10,10,Glebe Rd,Head-On,Injury,Dark - Lighted,Clear,35,0,0,2019-02-10
+2023,6,16,6,N Pershing Dr,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Clear,45,1,0,2023-06-16
+2023,6,12,19,Washington Blvd,Sideswipe,Injury,Dark - Unlighted,Clear,35,0,0,2023-06-12
+2020,2,24,6,Glebe Rd,Sideswipe,Property Damage Only,Daylight,Clear,30,0,0,2020-02-24
+2020,4,24,7,Washington Blvd,Sideswipe,Property Damage Only,Dark - Unlighted,Clear,25,0,0,2020-04-24
+2020,5,8,16,Clarendon Blvd,Angle,Injury,Dark - Unlighted,Clear,25,0,0,2020-05-08
+2023,3,9,10,Wilson Blvd,Rear-End,Injury,Dark - Unlighted,Clear,30,0,0,2023-03-09
+2022,2,28,19,Wilson Blvd,Pedestrian Involved,Injury,Dark - Unlighted,Clear,45,1,0,2022-02-28
+2022,8,11,5,Lee Hwy,Rear-End,Injury,Dark - Unlighted,Clear,45,0,0,2022-08-11
+2019,2,13,15,Washington Blvd,Rear-End,Serious Injury,Daylight,Rain,30,0,0,2019-02-13
+2020,10,10,10,Columbia Pike,Angle,Injury,Daylight,Clear,45,0,0,2020-10-10
+2023,10,26,14,S Walter Reed Dr,Angle,Serious Injury,Dawn/Dusk,Clear,45,0,0,2023-10-26
+2022,5,28,22,S Walter Reed Dr,Head-On,Serious Injury,Dark - Unlighted,Clear,25,0,0,2022-05-28
+2023,12,4,5,Glebe Rd,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,35,0,1,2023-12-04
+2019,3,8,6,Lee Hwy,Pedestrian Involved,Injury,Daylight,Clear,30,1,0,2019-03-08
+2019,7,15,9,S Walter Reed Dr,Head-On,Injury,Dark - Unlighted,Clear,25,0,0,2019-07-15
+2020,5,23,18,Arlington Blvd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,25,0,1,2020-05-23
+2020,5,26,17,S Walter Reed Dr,Bicycle Involved,Injury,Dark - Lighted,Fog,45,0,1,2020-05-26
+2019,9,8,17,Lee Hwy,Sideswipe,Injury,Dark - Lighted,Clear,25,0,0,2019-09-08
+2019,3,26,7,Arlington Blvd,Pedestrian Involved,Injury,Dark - Unlighted,Snow/Ice,45,1,0,2019-03-26
+2019,8,23,23,Arlington Blvd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,35,0,1,2019-08-23
+2023,9,16,18,Washington Blvd,Rear-End,Property Damage Only,Daylight,Cloudy,45,0,0,2023-09-16
+2021,10,9,19,Wilson Blvd,Rear-End,Property Damage Only,Dark - Lighted,Snow/Ice,25,0,0,2021-10-09
+2021,10,2,18,Lee Hwy,Head-On,Property Damage Only,Dawn/Dusk,Cloudy,35,0,0,2021-10-02
+2020,10,14,13,Washington Blvd,Rear-End,Injury,Dawn/Dusk,Clear,35,0,0,2020-10-14
+2022,6,11,20,Columbia Pike,Single Vehicle,Property Damage Only,Dark - Lighted,Clear,35,0,0,2022-06-11
+2022,12,16,20,Arlington Blvd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,25,0,1,2022-12-16
+2022,2,11,21,Arlington Blvd,Sideswipe,Serious Injury,Daylight,Rain,45,0,0,2022-02-11
+2023,1,22,16,N Pershing Dr,Head-On,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2023-01-22
+2020,9,12,9,S Walter Reed Dr,Single Vehicle,Injury,Dawn/Dusk,Snow/Ice,45,0,0,2020-09-12
+2019,4,9,18,N Pershing Dr,Angle,Injury,Dark - Unlighted,Clear,45,0,0,2019-04-09
+2022,2,1,13,S Walter Reed Dr,Single Vehicle,Property Damage Only,Dark - Lighted,Clear,30,0,0,2022-02-01
+2021,9,1,12,N Pershing Dr,Head-On,Injury,Daylight,Clear,30,0,0,2021-09-01
+2019,8,4,6,Lee Hwy,Head-On,Property Damage Only,Dark - Unlighted,Snow/Ice,35,0,0,2019-08-04
+2022,8,16,16,Glebe Rd,Head-On,Property Damage Only,Dark - Lighted,Clear,45,0,0,2022-08-16
+2020,10,17,17,Lee Hwy,Single Vehicle,Property Damage Only,Daylight,Snow/Ice,35,0,0,2020-10-17
+2022,6,26,17,N Pershing Dr,Sideswipe,Property Damage Only,Daylight,Clear,35,0,0,2022-06-26
+2021,10,19,23,Washington Blvd,Single Vehicle,Property Damage Only,Dark - Lighted,Clear,45,0,0,2021-10-19
+2023,8,12,18,Clarendon Blvd,Pedestrian Involved,Serious Injury,Dawn/Dusk,Cloudy,45,1,0,2023-08-12
+2021,4,23,18,Glebe Rd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Clear,30,1,0,2021-04-23
+2022,1,11,18,Washington Blvd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,45,0,1,2022-01-11
+2020,8,2,20,Lee Hwy,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Clear,25,1,0,2020-08-02
+2022,2,17,0,Washington Blvd,Rear-End,Property Damage Only,Dark - Lighted,Clear,45,0,0,2022-02-17
+2020,2,16,6,Arlington Blvd,Sideswipe,Property Damage Only,Dawn/Dusk,Rain,25,0,0,2020-02-16
+2021,11,28,18,N Pershing Dr,Head-On,Property Damage Only,Dark - Unlighted,Cloudy,45,0,0,2021-11-28
+2023,1,20,10,Columbia Pike,Angle,Property Damage Only,Dark - Unlighted,Fog,30,0,0,2023-01-20
+2019,7,4,7,Columbia Pike,Head-On,Serious Injury,Dark - Lighted,Clear,35,0,0,2019-07-04
+2019,1,11,22,Wilson Blvd,Sideswipe,Property Damage Only,Dark - Unlighted,Fog,35,0,0,2019-01-11
+2022,3,8,14,N Pershing Dr,Head-On,Fatal,Dark - Lighted,Clear,30,0,0,2022-03-08
+2020,2,20,15,N Fairfax Dr,Pedestrian Involved,Serious Injury,Dark - Lighted,Clear,45,1,0,2020-02-20
+2023,3,8,16,Washington Blvd,Bicycle Involved,Injury,Dark - Unlighted,Clear,45,0,1,2023-03-08
+2021,11,1,16,Washington Blvd,Sideswipe,Property Damage Only,Dark - Lighted,Cloudy,25,0,0,2021-11-01
+2022,6,19,4,Arlington Blvd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Cloudy,35,0,1,2022-06-19
+2022,5,7,20,N Fairfax Dr,Single Vehicle,Property Damage Only,Dawn/Dusk,Rain,25,0,0,2022-05-07
+2020,7,19,8,Clarendon Blvd,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Clear,35,1,0,2020-07-19
+2019,11,13,9,Arlington Blvd,Rear-End,Property Damage Only,Daylight,Clear,45,0,0,2019-11-13
+2021,4,20,22,Clarendon Blvd,Angle,Fatal,Dark - Lighted,Rain,35,0,0,2021-04-20
+2020,11,4,14,Wilson Blvd,Sideswipe,Property Damage Only,Dawn/Dusk,Snow/Ice,25,0,0,2020-11-04
+2023,6,24,17,Lee Hwy,Rear-End,Property Damage Only,Dark - Unlighted,Cloudy,35,0,0,2023-06-24
+2022,3,7,18,Lee Hwy,Single Vehicle,Serious Injury,Dark - Unlighted,Rain,35,0,0,2022-03-07
+2020,5,27,16,Washington Blvd,Single Vehicle,Property Damage Only,Dark - Unlighted,Cloudy,35,0,0,2020-05-27
+2019,8,3,19,Lee Hwy,Single Vehicle,Property Damage Only,Dark - Lighted,Clear,45,0,0,2019-08-03
+2023,6,3,10,N Fairfax Dr,Rear-End,Injury,Dark - Unlighted,Cloudy,25,0,0,2023-06-03
+2022,6,22,7,Arlington Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Clear,35,1,0,2022-06-22
+2019,11,8,22,Washington Blvd,Rear-End,Injury,Dark - Unlighted,Snow/Ice,30,0,0,2019-11-08
+2019,11,27,12,Washington Blvd,Bicycle Involved,Property Damage Only,Dark - Unlighted,Clear,45,0,1,2019-11-27
+2019,3,2,5,Wilson Blvd,Sideswipe,Injury,Dawn/Dusk,Snow/Ice,25,0,0,2019-03-02
+2019,4,18,23,Lee Hwy,Head-On,Fatal,Dawn/Dusk,Rain,35,0,0,2019-04-18
+2023,7,19,18,Lee Hwy,Head-On,Serious Injury,Daylight,Snow/Ice,45,0,0,2023-07-19
+2023,7,9,8,Wilson Blvd,Bicycle Involved,Property Damage Only,Dark - Unlighted,Clear,30,0,1,2023-07-09
+2022,8,8,22,Clarendon Blvd,Rear-End,Property Damage Only,Dark - Unlighted,Clear,35,0,0,2022-08-08
+2019,7,9,17,Glebe Rd,Rear-End,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2019-07-09
+2020,11,21,6,S Walter Reed Dr,Rear-End,Injury,Daylight,Clear,35,0,0,2020-11-21
+2020,3,26,18,S Walter Reed Dr,Angle,Property Damage Only,Daylight,Fog,30,0,0,2020-03-26
+2023,4,27,15,Glebe Rd,Sideswipe,Property Damage Only,Dark - Lighted,Fog,25,0,0,2023-04-27
+2021,3,5,11,N Pershing Dr,Sideswipe,Property Damage Only,Dark - Lighted,Clear,25,0,0,2021-03-05
+2019,3,1,18,Clarendon Blvd,Single Vehicle,Injury,Dark - Lighted,Rain,35,0,0,2019-03-01
+2019,3,9,7,Wilson Blvd,Angle,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2019-03-09
+2019,8,15,9,Clarendon Blvd,Pedestrian Involved,Property Damage Only,Daylight,Clear,45,1,0,2019-08-15
+2023,4,20,12,Wilson Blvd,Bicycle Involved,Serious Injury,Dark - Unlighted,Clear,45,0,1,2023-04-20
+2019,1,16,14,N Fairfax Dr,Head-On,Injury,Daylight,Clear,45,0,0,2019-01-16
+2022,2,3,16,Clarendon Blvd,Pedestrian Involved,Injury,Dark - Lighted,Cloudy,25,1,0,2022-02-03
+2020,5,20,7,S Walter Reed Dr,Pedestrian Involved,Serious Injury,Dark - Unlighted,Clear,45,1,0,2020-05-20
+2023,9,10,8,Washington Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Cloudy,25,1,0,2023-09-10
+2019,11,21,13,N Pershing Dr,Bicycle Involved,Property Damage Only,Dark - Lighted,Rain,45,0,1,2019-11-21
+2022,4,14,8,Clarendon Blvd,Single Vehicle,Property Damage Only,Dawn/Dusk,Clear,45,0,0,2022-04-14
+2022,12,4,6,Clarendon Blvd,Head-On,Property Damage Only,Dark - Unlighted,Clear,35,0,0,2022-12-04
+2021,3,22,16,Washington Blvd,Rear-End,Property Damage Only,Daylight,Clear,25,0,0,2021-03-22
+2019,7,4,20,Clarendon Blvd,Single Vehicle,Property Damage Only,Dark - Lighted,Rain,25,0,0,2019-07-04
+2023,9,18,7,Clarendon Blvd,Bicycle Involved,Property Damage Only,Daylight,Clear,45,0,1,2023-09-18
+2021,11,25,7,N Fairfax Dr,Single Vehicle,Property Damage Only,Daylight,Clear,35,0,0,2021-11-25
+2023,5,12,6,Columbia Pike,Pedestrian Involved,Property Damage Only,Dark - Lighted,Clear,30,1,0,2023-05-12
+2022,4,28,7,Columbia Pike,Sideswipe,Property Damage Only,Dark - Unlighted,Clear,25,0,0,2022-04-28
+2021,10,8,17,N Fairfax Dr,Single Vehicle,Property Damage Only,Daylight,Snow/Ice,35,0,0,2021-10-08
+2019,3,9,16,Arlington Blvd,Sideswipe,Property Damage Only,Dark - Unlighted,Fog,25,0,0,2019-03-09
+2020,3,19,21,N Fairfax Dr,Rear-End,Property Damage Only,Dark - Lighted,Clear,25,0,0,2020-03-19
+2019,12,17,18,Glebe Rd,Head-On,Injury,Dawn/Dusk,Clear,45,0,0,2019-12-17
+2021,3,12,7,Arlington Blvd,Bicycle Involved,Property Damage Only,Dark - Unlighted,Clear,25,0,1,2021-03-12
+2019,3,6,16,S Walter Reed Dr,Rear-End,Property Damage Only,Daylight,Clear,35,0,0,2019-03-06
+2022,11,14,18,Washington Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Clear,45,1,0,2022-11-14
+2021,4,25,17,N Pershing Dr,Rear-End,Injury,Dark - Unlighted,Clear,45,0,0,2021-04-25
+2019,5,22,14,S Walter Reed Dr,Head-On,Property Damage Only,Dark - Unlighted,Clear,25,0,0,2019-05-22
+2020,7,20,14,Wilson Blvd,Rear-End,Property Damage Only,Dark - Lighted,Clear,35,0,0,2020-07-20
+2020,3,25,10,Arlington Blvd,Sideswipe,Property Damage Only,Dark - Unlighted,Clear,25,0,0,2020-03-25
+2019,8,24,7,N Fairfax Dr,Angle,Property Damage Only,Dark - Lighted,Clear,45,0,0,2019-08-24
+2023,12,8,20,N Pershing Dr,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Rain,25,1,0,2023-12-08
+2022,12,2,18,N Fairfax Dr,Rear-End,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2022-12-02
+2021,10,14,14,S Walter Reed Dr,Head-On,Property Damage Only,Dawn/Dusk,Rain,35,0,0,2021-10-14
+2019,7,1,12,Clarendon Blvd,Angle,Property Damage Only,Dawn/Dusk,Clear,35,0,0,2019-07-01
+2019,7,28,10,Columbia Pike,Angle,Injury,Dawn/Dusk,Rain,45,0,0,2019-07-28
+2023,2,13,10,Arlington Blvd,Bicycle Involved,Fatal,Dark - Unlighted,Rain,30,0,1,2023-02-13
+2021,3,3,8,N Pershing Dr,Bicycle Involved,Property Damage Only,Daylight,Clear,30,0,1,2021-03-03
+2021,6,24,8,Lee Hwy,Angle,Property Damage Only,Daylight,Clear,30,0,0,2021-06-24
+2021,4,6,8,S Walter Reed Dr,Angle,Property Damage Only,Daylight,Fog,30,0,0,2021-04-06
+2022,8,25,5,S Walter Reed Dr,Single Vehicle,Property Damage Only,Dawn/Dusk,Clear,35,0,0,2022-08-25
+2021,3,15,23,Columbia Pike,Head-On,Property Damage Only,Dawn/Dusk,Clear,35,0,0,2021-03-15
+2021,10,2,22,Clarendon Blvd,Pedestrian Involved,Injury,Daylight,Snow/Ice,35,1,0,2021-10-02
+2022,8,2,8,Wilson Blvd,Sideswipe,Property Damage Only,Dark - Unlighted,Rain,25,0,0,2022-08-02
+2019,10,20,21,N Pershing Dr,Head-On,Property Damage Only,Dawn/Dusk,Rain,25,0,0,2019-10-20
+2022,10,21,8,Glebe Rd,Sideswipe,Injury,Dawn/Dusk,Clear,30,0,0,2022-10-21
+2019,8,4,9,Clarendon Blvd,Bicycle Involved,Property Damage Only,Daylight,Clear,30,0,1,2019-08-04
+2019,4,23,8,Washington Blvd,Head-On,Property Damage Only,Dark - Lighted,Rain,35,0,0,2019-04-23
+2021,5,13,8,N Fairfax Dr,Single Vehicle,Property Damage Only,Dark - Unlighted,Clear,25,0,0,2021-05-13
+2021,2,11,13,Columbia Pike,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Clear,35,1,0,2021-02-11
+2021,12,28,9,S Walter Reed Dr,Single Vehicle,Property Damage Only,Dark - Lighted,Clear,35,0,0,2021-12-28
+2019,10,22,23,Lee Hwy,Sideswipe,Property Damage Only,Dark - Unlighted,Snow/Ice,45,0,0,2019-10-22
+2020,10,23,8,Columbia Pike,Sideswipe,Injury,Dawn/Dusk,Snow/Ice,35,0,0,2020-10-23
+2020,11,23,16,N Pershing Dr,Rear-End,Property Damage Only,Dawn/Dusk,Clear,35,0,0,2020-11-23
+2019,6,10,9,Lee Hwy,Angle,Serious Injury,Dark - Unlighted,Snow/Ice,45,0,0,2019-06-10
+2020,4,5,22,Lee Hwy,Rear-End,Property Damage Only,Dark - Unlighted,Rain,25,0,0,2020-04-05
+2023,9,27,21,N Pershing Dr,Rear-End,Property Damage Only,Dark - Unlighted,Clear,30,0,0,2023-09-27
+2023,7,5,17,Lee Hwy,Angle,Property Damage Only,Dark - Lighted,Snow/Ice,45,0,0,2023-07-05
+2019,7,12,6,Glebe Rd,Head-On,Injury,Dark - Unlighted,Clear,45,0,0,2019-07-12
+2020,9,8,7,Arlington Blvd,Single Vehicle,Property Damage Only,Dawn/Dusk,Snow/Ice,30,0,0,2020-09-08
+2021,11,19,17,Washington Blvd,Head-On,Property Damage Only,Dark - Unlighted,Clear,45,0,0,2021-11-19
+2023,9,14,19,Lee Hwy,Single Vehicle,Property Damage Only,Dark - Lighted,Snow/Ice,30,0,0,2023-09-14
+2021,1,21,12,Washington Blvd,Single Vehicle,Property Damage Only,Dark - Unlighted,Clear,25,0,0,2021-01-21
+2023,2,10,8,Columbia Pike,Single Vehicle,Injury,Dark - Lighted,Clear,35,0,0,2023-02-10
+2022,9,5,7,N Fairfax Dr,Rear-End,Injury,Dark - Lighted,Clear,45,0,0,2022-09-05
+2021,1,14,14,Wilson Blvd,Head-On,Serious Injury,Dark - Unlighted,Rain,30,0,0,2021-01-14
+2022,2,12,6,Glebe Rd,Rear-End,Serious Injury,Dark - Unlighted,Rain,25,0,0,2022-02-12
+2021,3,5,9,Wilson Blvd,Sideswipe,Property Damage Only,Dawn/Dusk,Snow/Ice,30,0,0,2021-03-05
+2022,8,20,16,Wilson Blvd,Rear-End,Property Damage Only,Daylight,Fog,35,0,0,2022-08-20
+2020,3,18,18,S Walter Reed Dr,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Clear,25,1,0,2020-03-18
+2021,4,10,8,Columbia Pike,Rear-End,Injury,Dark - Lighted,Clear,45,0,0,2021-04-10
+2023,8,3,15,Columbia Pike,Single Vehicle,Injury,Dawn/Dusk,Fog,25,0,0,2023-08-03
+2023,10,8,9,Lee Hwy,Sideswipe,Injury,Dawn/Dusk,Clear,25,0,0,2023-10-08
+2023,6,8,19,S Walter Reed Dr,Head-On,Property Damage Only,Dark - Lighted,Clear,25,0,0,2023-06-08
+2023,6,3,18,N Pershing Dr,Pedestrian Involved,Property Damage Only,Daylight,Clear,45,1,0,2023-06-03
+2022,1,21,17,N Fairfax Dr,Sideswipe,Injury,Dark - Unlighted,Rain,25,0,0,2022-01-21
+2021,2,12,17,Glebe Rd,Bicycle Involved,Property Damage Only,Daylight,Clear,35,0,1,2021-02-12
+2020,1,12,9,N Pershing Dr,Sideswipe,Property Damage Only,Dark - Lighted,Cloudy,45,0,0,2020-01-12
+2022,11,6,15,Lee Hwy,Rear-End,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2022-11-06
+2021,4,2,21,Glebe Rd,Rear-End,Property Damage Only,Dark - Unlighted,Rain,35,0,0,2021-04-02
+2023,7,27,13,N Pershing Dr,Head-On,Property Damage Only,Dark - Unlighted,Clear,25,0,0,2023-07-27
+2020,5,12,19,Wilson Blvd,Single Vehicle,Serious Injury,Dark - Unlighted,Rain,35,0,0,2020-05-12
+2019,6,14,17,N Fairfax Dr,Bicycle Involved,Serious Injury,Dawn/Dusk,Rain,45,0,1,2019-06-14
+2021,3,16,7,Washington Blvd,Sideswipe,Property Damage Only,Dark - Unlighted,Rain,25,0,0,2021-03-16
+2022,2,14,11,S Walter Reed Dr,Single Vehicle,Injury,Dark - Lighted,Cloudy,35,0,0,2022-02-14
+2021,2,3,21,Clarendon Blvd,Bicycle Involved,Property Damage Only,Dark - Unlighted,Clear,35,0,1,2021-02-03
+2022,10,23,23,N Fairfax Dr,Angle,Injury,Dawn/Dusk,Clear,35,0,0,2022-10-23
+2022,1,24,21,Clarendon Blvd,Pedestrian Involved,Injury,Dawn/Dusk,Clear,35,1,0,2022-01-24
+2019,2,22,15,N Fairfax Dr,Sideswipe,Property Damage Only,Dark - Lighted,Clear,25,0,0,2019-02-22
+2020,10,22,9,Washington Blvd,Rear-End,Injury,Dark - Lighted,Clear,25,0,0,2020-10-22
+2020,11,12,9,Clarendon Blvd,Head-On,Property Damage Only,Daylight,Clear,30,0,0,2020-11-12
+2022,6,12,21,Washington Blvd,Single Vehicle,Property Damage Only,Daylight,Clear,30,0,0,2022-06-12
+2023,6,13,17,Clarendon Blvd,Bicycle Involved,Property Damage Only,Dark - Unlighted,Clear,30,0,1,2023-06-13
+2019,1,24,12,Lee Hwy,Head-On,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2019-01-24
+2021,5,23,13,Washington Blvd,Angle,Property Damage Only,Dark - Unlighted,Cloudy,45,0,0,2021-05-23
+2020,2,5,10,Columbia Pike,Head-On,Property Damage Only,Dark - Lighted,Rain,45,0,0,2020-02-05
+2019,11,28,0,Clarendon Blvd,Bicycle Involved,Injury,Dark - Unlighted,Clear,25,0,1,2019-11-28
+2023,9,10,22,Arlington Blvd,Single Vehicle,Property Damage Only,Dark - Lighted,Clear,30,0,0,2023-09-10
+2021,9,8,5,Columbia Pike,Angle,Fatal,Dark - Lighted,Clear,30,0,0,2021-09-08
+2022,1,12,16,N Pershing Dr,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Rain,45,1,0,2022-01-12
+2023,3,20,7,Columbia Pike,Rear-End,Injury,Dark - Unlighted,Clear,45,0,0,2023-03-20
+2022,9,14,7,N Fairfax Dr,Single Vehicle,Property Damage Only,Daylight,Clear,30,0,0,2022-09-14
+2021,11,3,15,Washington Blvd,Head-On,Property Damage Only,Dark - Unlighted,Snow/Ice,30,0,0,2021-11-03
+2023,11,19,12,Lee Hwy,Single Vehicle,Property Damage Only,Dark - Lighted,Clear,45,0,0,2023-11-19
+2023,1,27,11,Columbia Pike,Pedestrian Involved,Property Damage Only,Dark - Lighted,Clear,35,1,0,2023-01-27
+2020,3,11,7,Glebe Rd,Sideswipe,Injury,Dark - Unlighted,Cloudy,25,0,0,2020-03-11
+2021,4,21,10,N Pershing Dr,Sideswipe,Property Damage Only,Dark - Lighted,Rain,35,0,0,2021-04-21
+2023,9,3,11,N Pershing Dr,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,30,0,1,2023-09-03
+2020,11,20,17,S Walter Reed Dr,Sideswipe,Injury,Daylight,Clear,25,0,0,2020-11-20
+2019,1,21,7,S Walter Reed Dr,Sideswipe,Property Damage Only,Dark - Lighted,Rain,45,0,0,2019-01-21
+2023,11,1,1,Washington Blvd,Bicycle Involved,Property Damage Only,Dark - Unlighted,Snow/Ice,35,0,1,2023-11-01
+2022,4,26,7,N Fairfax Dr,Sideswipe,Injury,Dawn/Dusk,Clear,25,0,0,2022-04-26
+2019,3,15,6,N Fairfax Dr,Head-On,Property Damage Only,Dawn/Dusk,Rain,30,0,0,2019-03-15
+2021,10,5,19,Clarendon Blvd,Single Vehicle,Injury,Dark - Unlighted,Clear,35,0,0,2021-10-05
+2022,3,25,17,Clarendon Blvd,Pedestrian Involved,Property Damage Only,Daylight,Clear,35,1,0,2022-03-25
+2020,8,4,20,Arlington Blvd,Head-On,Property Damage Only,Dark - Lighted,Clear,30,0,0,2020-08-04
+2019,1,10,7,N Fairfax Dr,Single Vehicle,Property Damage Only,Dawn/Dusk,Clear,30,0,0,2019-01-10
+2020,6,19,15,Clarendon Blvd,Angle,Property Damage Only,Dark - Lighted,Fog,45,0,0,2020-06-19
+2023,8,16,18,Arlington Blvd,Head-On,Property Damage Only,Daylight,Clear,25,0,0,2023-08-16
+2022,9,15,10,Glebe Rd,Angle,Property Damage Only,Dark - Unlighted,Clear,25,0,0,2022-09-15
+2019,5,16,16,S Walter Reed Dr,Single Vehicle,Property Damage Only,Dawn/Dusk,Rain,35,0,0,2019-05-16
+2023,1,28,12,Columbia Pike,Head-On,Property Damage Only,Dark - Lighted,Cloudy,35,0,0,2023-01-28
+2021,7,12,18,Wilson Blvd,Head-On,Property Damage Only,Daylight,Fog,30,0,0,2021-07-12
+2021,9,10,13,Columbia Pike,Head-On,Injury,Dawn/Dusk,Snow/Ice,35,0,0,2021-09-10
+2023,11,20,11,Columbia Pike,Angle,Property Damage Only,Daylight,Clear,45,0,0,2023-11-20
+2021,6,18,14,Clarendon Blvd,Single Vehicle,Injury,Dark - Lighted,Clear,30,0,0,2021-06-18
+2023,9,13,6,N Pershing Dr,Rear-End,Injury,Daylight,Cloudy,25,0,0,2023-09-13
+2020,12,11,14,Washington Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Clear,30,1,0,2020-12-11
+2023,9,5,0,Clarendon Blvd,Pedestrian Involved,Serious Injury,Dark - Unlighted,Clear,30,1,0,2023-09-05
+2022,10,24,15,Arlington Blvd,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Rain,45,1,0,2022-10-24
+2023,5,16,17,Wilson Blvd,Sideswipe,Injury,Dark - Unlighted,Clear,25,0,0,2023-05-16
+2022,10,10,0,Wilson Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Cloudy,35,1,0,2022-10-10
+2023,10,8,19,Wilson Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Rain,30,1,0,2023-10-08
+2023,11,24,17,S Walter Reed Dr,Single Vehicle,Property Damage Only,Dawn/Dusk,Cloudy,30,0,0,2023-11-24
+2020,1,19,11,Columbia Pike,Angle,Property Damage Only,Daylight,Clear,45,0,0,2020-01-19
+2021,7,5,4,N Fairfax Dr,Bicycle Involved,Property Damage Only,Dark - Lighted,Rain,45,0,1,2021-07-05
+2023,10,16,5,Wilson Blvd,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,30,0,1,2023-10-16
+2023,6,22,10,Washington Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Clear,35,1,0,2023-06-22
+2020,8,18,17,Clarendon Blvd,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Rain,35,1,0,2020-08-18
+2023,8,7,13,Glebe Rd,Sideswipe,Injury,Dark - Unlighted,Cloudy,30,0,0,2023-08-07
+2021,5,23,17,Glebe Rd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,35,0,1,2021-05-23
+2022,6,18,8,Arlington Blvd,Sideswipe,Property Damage Only,Daylight,Clear,45,0,0,2022-06-18
+2022,6,25,13,Lee Hwy,Sideswipe,Property Damage Only,Daylight,Clear,35,0,0,2022-06-25
+2019,6,15,18,Arlington Blvd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,30,0,1,2019-06-15
+2020,9,9,17,N Pershing Dr,Bicycle Involved,Property Damage Only,Dark - Unlighted,Rain,30,0,1,2020-09-09
+2019,10,24,12,S Walter Reed Dr,Angle,Property Damage Only,Dark - Lighted,Snow/Ice,25,0,0,2019-10-24
+2023,4,21,18,Glebe Rd,Rear-End,Injury,Daylight,Clear,45,0,0,2023-04-21
+2021,12,16,15,Columbia Pike,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,25,0,1,2021-12-16
+2023,3,14,20,Washington Blvd,Head-On,Property Damage Only,Dark - Lighted,Cloudy,35,0,0,2023-03-14
+2021,5,21,12,Wilson Blvd,Single Vehicle,Property Damage Only,Daylight,Clear,30,0,0,2021-05-21
+2023,12,24,19,Wilson Blvd,Angle,Injury,Dawn/Dusk,Snow/Ice,30,0,0,2023-12-24
+2019,7,26,17,Washington Blvd,Angle,Injury,Dark - Unlighted,Snow/Ice,25,0,0,2019-07-26
+2019,5,19,8,S Walter Reed Dr,Rear-End,Property Damage Only,Dark - Unlighted,Clear,35,0,0,2019-05-19
+2022,11,18,23,N Pershing Dr,Head-On,Serious Injury,Dark - Lighted,Clear,45,0,0,2022-11-18
+2021,4,26,17,Columbia Pike,Sideswipe,Serious Injury,Dark - Lighted,Clear,45,0,0,2021-04-26
+2021,12,6,15,Wilson Blvd,Bicycle Involved,Serious Injury,Dark - Unlighted,Clear,35,0,1,2021-12-06
+2023,11,25,17,Glebe Rd,Angle,Property Damage Only,Dawn/Dusk,Cloudy,45,0,0,2023-11-25
+2023,6,3,22,N Fairfax Dr,Bicycle Involved,Serious Injury,Daylight,Clear,30,0,1,2023-06-03
+2020,8,11,19,Glebe Rd,Rear-End,Injury,Dark - Unlighted,Clear,45,0,0,2020-08-11
+2020,8,25,19,Arlington Blvd,Sideswipe,Property Damage Only,Dark - Unlighted,Rain,25,0,0,2020-08-25
+2021,11,12,7,Glebe Rd,Rear-End,Property Damage Only,Daylight,Clear,45,0,0,2021-11-12
+2021,3,13,17,N Pershing Dr,Bicycle Involved,Property Damage Only,Dark - Unlighted,Rain,25,0,1,2021-03-13
+2021,6,20,5,Glebe Rd,Angle,Property Damage Only,Dark - Lighted,Clear,45,0,0,2021-06-20
+2020,8,24,18,S Walter Reed Dr,Sideswipe,Property Damage Only,Dawn/Dusk,Rain,45,0,0,2020-08-24
+2023,11,27,20,Glebe Rd,Single Vehicle,Property Damage Only,Dark - Lighted,Clear,25,0,0,2023-11-27
+2023,8,17,1,Clarendon Blvd,Rear-End,Injury,Daylight,Clear,25,0,0,2023-08-17
+2023,9,7,19,S Walter Reed Dr,Pedestrian Involved,Property Damage Only,Dark - Lighted,Cloudy,30,1,0,2023-09-07
+2021,9,15,18,Columbia Pike,Bicycle Involved,Fatal,Dark - Lighted,Clear,45,0,1,2021-09-15
+2019,9,15,18,Wilson Blvd,Head-On,Property Damage Only,Dark - Lighted,Clear,45,0,0,2019-09-15
+2022,10,2,16,N Pershing Dr,Head-On,Injury,Dark - Unlighted,Cloudy,25,0,0,2022-10-02
+2022,5,27,18,Wilson Blvd,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,25,0,1,2022-05-27
+2019,7,12,17,Columbia Pike,Pedestrian Involved,Property Damage Only,Daylight,Clear,25,1,0,2019-07-12
+2022,1,10,9,N Fairfax Dr,Angle,Property Damage Only,Dark - Lighted,Clear,45,0,0,2022-01-10
+2021,7,15,7,N Fairfax Dr,Head-On,Property Damage Only,Daylight,Clear,30,0,0,2021-07-15
+2021,2,6,23,N Pershing Dr,Head-On,Property Damage Only,Dark - Lighted,Clear,30,0,0,2021-02-06
+2019,1,10,17,Washington Blvd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Cloudy,45,0,1,2019-01-10
+2020,4,15,18,Clarendon Blvd,Angle,Property Damage Only,Dark - Unlighted,Clear,30,0,0,2020-04-15
+2019,1,26,19,N Fairfax Dr,Pedestrian Involved,Serious Injury,Daylight,Clear,30,1,0,2019-01-26
+2020,2,4,16,S Walter Reed Dr,Rear-End,Property Damage Only,Dawn/Dusk,Cloudy,25,0,0,2020-02-04
+2020,12,2,7,N Fairfax Dr,Head-On,Serious Injury,Dark - Lighted,Rain,30,0,0,2020-12-02
+2019,3,17,16,Arlington Blvd,Angle,Property Damage Only,Dark - Unlighted,Clear,35,0,0,2019-03-17
+2020,5,5,7,N Pershing Dr,Angle,Property Damage Only,Dawn/Dusk,Clear,35,0,0,2020-05-05
+2021,1,18,18,S Walter Reed Dr,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,45,0,1,2021-01-18
+2023,8,2,22,Clarendon Blvd,Bicycle Involved,Injury,Dawn/Dusk,Cloudy,35,0,1,2023-08-02
+2022,7,5,23,Arlington Blvd,Head-On,Property Damage Only,Dark - Lighted,Clear,45,0,0,2022-07-05
+2020,4,10,18,Lee Hwy,Single Vehicle,Injury,Dawn/Dusk,Clear,25,0,0,2020-04-10
+2023,7,14,18,N Pershing Dr,Pedestrian Involved,Property Damage Only,Dark - Lighted,Clear,45,1,0,2023-07-14
+2020,5,7,14,Clarendon Blvd,Bicycle Involved,Property Damage Only,Daylight,Rain,45,0,1,2020-05-07
+2021,2,18,6,Glebe Rd,Rear-End,Injury,Dark - Unlighted,Clear,45,0,0,2021-02-18
+2023,10,2,6,Columbia Pike,Angle,Injury,Dark - Lighted,Cloudy,45,0,0,2023-10-02
+2020,6,10,19,Wilson Blvd,Angle,Injury,Dark - Lighted,Rain,25,0,0,2020-06-10
+2022,4,23,15,S Walter Reed Dr,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,45,0,1,2022-04-23
+2020,9,11,10,Arlington Blvd,Head-On,Property Damage Only,Dawn/Dusk,Rain,35,0,0,2020-09-11
+2021,5,12,13,N Pershing Dr,Head-On,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2021-05-12
+2022,6,7,17,Clarendon Blvd,Sideswipe,Property Damage Only,Dawn/Dusk,Fog,25,0,0,2022-06-07
+2023,4,24,13,Lee Hwy,Rear-End,Property Damage Only,Dark - Unlighted,Rain,45,0,0,2023-04-24
+2021,3,7,19,Clarendon Blvd,Angle,Property Damage Only,Dawn/Dusk,Rain,30,0,0,2021-03-07
+2022,9,21,15,Clarendon Blvd,Sideswipe,Property Damage Only,Dawn/Dusk,Fog,45,0,0,2022-09-21
+2022,3,24,18,Clarendon Blvd,Angle,Injury,Dark - Lighted,Fog,45,0,0,2022-03-24
+2020,9,21,19,Wilson Blvd,Pedestrian Involved,Injury,Daylight,Snow/Ice,25,1,0,2020-09-21
+2019,1,14,17,Lee Hwy,Single Vehicle,Injury,Dark - Lighted,Rain,25,0,0,2019-01-14
+2020,1,7,18,N Pershing Dr,Head-On,Property Damage Only,Dark - Unlighted,Fog,25,0,0,2020-01-07
+2023,11,22,19,S Walter Reed Dr,Head-On,Property Damage Only,Dawn/Dusk,Snow/Ice,25,0,0,2023-11-22
+2019,9,18,6,N Fairfax Dr,Rear-End,Property Damage Only,Daylight,Rain,35,0,0,2019-09-18
+2023,5,1,7,N Pershing Dr,Single Vehicle,Injury,Dawn/Dusk,Snow/Ice,30,0,0,2023-05-01
+2019,2,17,13,Lee Hwy,Angle,Property Damage Only,Dark - Lighted,Clear,35,0,0,2019-02-17
+2021,5,26,16,N Fairfax Dr,Rear-End,Fatal,Dark - Unlighted,Rain,45,0,0,2021-05-26
+2022,10,8,8,Glebe Rd,Sideswipe,Injury,Daylight,Clear,25,0,0,2022-10-08
+2019,7,13,18,N Fairfax Dr,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Snow/Ice,25,1,0,2019-07-13
+2019,12,6,14,Columbia Pike,Head-On,Serious Injury,Dawn/Dusk,Clear,35,0,0,2019-12-06
+2023,2,17,16,Wilson Blvd,Angle,Serious Injury,Dark - Lighted,Clear,45,0,0,2023-02-17
+2021,1,3,21,Arlington Blvd,Pedestrian Involved,Injury,Daylight,Clear,30,1,0,2021-01-03
+2021,1,7,8,S Walter Reed Dr,Angle,Injury,Dawn/Dusk,Clear,25,0,0,2021-01-07
+2021,3,19,15,Glebe Rd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Rain,35,1,0,2021-03-19
+2022,12,5,4,Columbia Pike,Pedestrian Involved,Injury,Dark - Unlighted,Cloudy,25,1,0,2022-12-05
+2019,7,8,22,Columbia Pike,Sideswipe,Injury,Dawn/Dusk,Clear,35,0,0,2019-07-08
+2019,11,9,18,Washington Blvd,Head-On,Property Damage Only,Dark - Lighted,Clear,35,0,0,2019-11-09
+2023,7,14,9,Lee Hwy,Bicycle Involved,Property Damage Only,Dawn/Dusk,Snow/Ice,25,0,1,2023-07-14
+2023,5,26,17,Glebe Rd,Bicycle Involved,Property Damage Only,Daylight,Clear,25,0,1,2023-05-26
+2021,3,13,23,Lee Hwy,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,35,0,1,2021-03-13
+2021,2,3,7,Wilson Blvd,Sideswipe,Injury,Dawn/Dusk,Rain,35,0,0,2021-02-03
+2021,2,5,7,Columbia Pike,Angle,Property Damage Only,Dawn/Dusk,Rain,45,0,0,2021-02-05
+2023,9,17,17,N Fairfax Dr,Rear-End,Property Damage Only,Daylight,Cloudy,25,0,0,2023-09-17
+2021,9,3,7,S Walter Reed Dr,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Cloudy,45,1,0,2021-09-03
+2019,5,14,11,N Fairfax Dr,Single Vehicle,Injury,Daylight,Clear,30,0,0,2019-05-14
+2023,9,6,8,N Fairfax Dr,Angle,Fatal,Dark - Lighted,Clear,35,0,0,2023-09-06
+2021,5,16,20,Lee Hwy,Rear-End,Property Damage Only,Dark - Lighted,Clear,45,0,0,2021-05-16
+2021,7,10,2,Washington Blvd,Single Vehicle,Injury,Daylight,Clear,35,0,0,2021-07-10
+2021,4,24,19,Washington Blvd,Pedestrian Involved,Property Damage Only,Dark - Lighted,Cloudy,45,1,0,2021-04-24
+2019,3,10,7,Wilson Blvd,Head-On,Injury,Dark - Unlighted,Snow/Ice,45,0,0,2019-03-10
+2021,8,11,18,N Fairfax Dr,Single Vehicle,Injury,Dark - Lighted,Snow/Ice,35,0,0,2021-08-11
+2021,10,23,16,Glebe Rd,Head-On,Property Damage Only,Dark - Unlighted,Clear,30,0,0,2021-10-23
+2022,6,10,21,Washington Blvd,Pedestrian Involved,Property Damage Only,Dark - Lighted,Snow/Ice,35,1,0,2022-06-10
+2022,5,27,13,N Fairfax Dr,Sideswipe,Property Damage Only,Daylight,Clear,30,0,0,2022-05-27
+2023,9,6,17,N Pershing Dr,Rear-End,Property Damage Only,Dawn/Dusk,Clear,30,0,0,2023-09-06
+2022,5,27,13,Columbia Pike,Single Vehicle,Property Damage Only,Dawn/Dusk,Rain,45,0,0,2022-05-27
+2020,11,10,8,Glebe Rd,Sideswipe,Injury,Dark - Lighted,Clear,45,0,0,2020-11-10
+2022,2,15,12,S Walter Reed Dr,Head-On,Property Damage Only,Dawn/Dusk,Clear,45,0,0,2022-02-15
+2023,1,26,10,Clarendon Blvd,Bicycle Involved,Property Damage Only,Daylight,Rain,25,0,1,2023-01-26
+2020,11,22,8,Clarendon Blvd,Angle,Injury,Daylight,Fog,45,0,0,2020-11-22
+2021,7,4,18,Wilson Blvd,Rear-End,Property Damage Only,Dark - Unlighted,Clear,30,0,0,2021-07-04
+2023,12,17,6,N Pershing Dr,Pedestrian Involved,Property Damage Only,Dark - Lighted,Cloudy,45,1,0,2023-12-17
+2021,7,15,7,S Walter Reed Dr,Bicycle Involved,Property Damage Only,Dark - Lighted,Rain,35,0,1,2021-07-15
+2019,8,4,17,Arlington Blvd,Head-On,Property Damage Only,Daylight,Clear,25,0,0,2019-08-04
+2020,6,10,9,Clarendon Blvd,Head-On,Property Damage Only,Dark - Lighted,Clear,45,0,0,2020-06-10
+2021,8,4,9,Washington Blvd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,35,0,1,2021-08-04
+2019,5,2,11,Columbia Pike,Rear-End,Property Damage Only,Dark - Unlighted,Rain,25,0,0,2019-05-02
+2020,12,8,17,N Pershing Dr,Angle,Injury,Dark - Lighted,Clear,35,0,0,2020-12-08
+2023,7,15,7,Glebe Rd,Single Vehicle,Property Damage Only,Dawn/Dusk,Rain,30,0,0,2023-07-15
+2020,11,22,17,N Fairfax Dr,Head-On,Property Damage Only,Daylight,Cloudy,30,0,0,2020-11-22
+2022,10,14,4,N Fairfax Dr,Rear-End,Property Damage Only,Dark - Lighted,Rain,30,0,0,2022-10-14
+2021,12,26,19,Columbia Pike,Pedestrian Involved,Injury,Daylight,Snow/Ice,30,1,0,2021-12-26
+2021,6,7,9,Washington Blvd,Rear-End,Injury,Dark - Unlighted,Clear,45,0,0,2021-06-07
+2023,11,11,20,S Walter Reed Dr,Head-On,Property Damage Only,Dawn/Dusk,Snow/Ice,25,0,0,2023-11-11
+2021,6,28,12,Washington Blvd,Pedestrian Involved,Injury,Dark - Lighted,Clear,35,1,0,2021-06-28
+2023,10,3,17,Lee Hwy,Sideswipe,Property Damage Only,Daylight,Clear,30,0,0,2023-10-03
+2021,2,6,8,Clarendon Blvd,Bicycle Involved,Property Damage Only,Dark - Lighted,Fog,45,0,1,2021-02-06
+2022,10,5,7,S Walter Reed Dr,Head-On,Fatal,Dawn/Dusk,Clear,30,0,0,2022-10-05
+2022,11,18,7,Lee Hwy,Pedestrian Involved,Injury,Dark - Lighted,Rain,45,1,0,2022-11-18
+2021,3,6,13,Clarendon Blvd,Single Vehicle,Property Damage Only,Dawn/Dusk,Rain,25,0,0,2021-03-06
+2021,1,16,7,Lee Hwy,Angle,Fatal,Dawn/Dusk,Cloudy,45,0,0,2021-01-16
+2022,11,16,17,N Fairfax Dr,Bicycle Involved,Property Damage Only,Dawn/Dusk,Rain,45,0,1,2022-11-16
+2020,2,19,5,Wilson Blvd,Single Vehicle,Property Damage Only,Dark - Lighted,Clear,35,0,0,2020-02-19
+2019,5,8,12,N Pershing Dr,Sideswipe,Injury,Dark - Lighted,Rain,45,0,0,2019-05-08
+2023,12,25,18,Washington Blvd,Pedestrian Involved,Property Damage Only,Daylight,Clear,25,1,0,2023-12-25
+2021,9,27,10,Clarendon Blvd,Pedestrian Involved,Fatal,Daylight,Clear,45,1,0,2021-09-27
+2023,4,14,19,Columbia Pike,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,35,0,1,2023-04-14
+2019,8,9,17,Clarendon Blvd,Single Vehicle,Property Damage Only,Daylight,Fog,45,0,0,2019-08-09
+2019,4,7,20,S Walter Reed Dr,Bicycle Involved,Property Damage Only,Dark - Unlighted,Clear,45,0,1,2019-04-07
+2020,10,5,16,Glebe Rd,Single Vehicle,Serious Injury,Dark - Lighted,Clear,25,0,0,2020-10-05
+2023,6,18,16,Arlington Blvd,Pedestrian Involved,Injury,Dark - Lighted,Rain,35,1,0,2023-06-18
+2021,5,19,6,Arlington Blvd,Single Vehicle,Injury,Daylight,Cloudy,30,0,0,2021-05-19
+2022,1,9,7,Lee Hwy,Bicycle Involved,Property Damage Only,Dark - Lighted,Cloudy,30,0,1,2022-01-09
+2020,12,11,7,Glebe Rd,Single Vehicle,Injury,Dawn/Dusk,Clear,45,0,0,2020-12-11
+2020,10,21,8,Arlington Blvd,Bicycle Involved,Injury,Dawn/Dusk,Clear,45,0,1,2020-10-21
+2022,2,21,14,Columbia Pike,Head-On,Property Damage Only,Dark - Unlighted,Rain,35,0,0,2022-02-21
+2022,8,11,7,S Walter Reed Dr,Rear-End,Property Damage Only,Daylight,Cloudy,45,0,0,2022-08-11
+2021,2,26,8,N Pershing Dr,Head-On,Injury,Dark - Lighted,Clear,45,0,0,2021-02-26
+2020,8,9,18,Clarendon Blvd,Single Vehicle,Property Damage Only,Dark - Unlighted,Cloudy,35,0,0,2020-08-09
+2023,10,5,12,S Walter Reed Dr,Single Vehicle,Property Damage Only,Dawn/Dusk,Clear,35,0,0,2023-10-05
+2019,1,4,7,Washington Blvd,Rear-End,Property Damage Only,Daylight,Clear,30,0,0,2019-01-04
+2022,8,1,19,N Fairfax Dr,Angle,Property Damage Only,Dark - Lighted,Clear,35,0,0,2022-08-01
+2020,5,3,16,Clarendon Blvd,Sideswipe,Injury,Daylight,Clear,35,0,0,2020-05-03
+2020,1,13,7,Arlington Blvd,Bicycle Involved,Property Damage Only,Dark - Lighted,Rain,45,0,1,2020-01-13
+2019,12,4,17,Wilson Blvd,Angle,Property Damage Only,Dawn/Dusk,Snow/Ice,25,0,0,2019-12-04
+2020,10,8,18,N Pershing Dr,Bicycle Involved,Property Damage Only,Dawn/Dusk,Fog,25,0,1,2020-10-08
+2019,12,11,7,Columbia Pike,Single Vehicle,Property Damage Only,Dawn/Dusk,Clear,30,0,0,2019-12-11
+2022,2,8,5,N Fairfax Dr,Rear-End,Property Damage Only,Daylight,Cloudy,25,0,0,2022-02-08
+2021,6,10,3,Lee Hwy,Head-On,Property Damage Only,Dark - Lighted,Clear,30,0,0,2021-06-10
+2019,9,19,21,Wilson Blvd,Pedestrian Involved,Property Damage Only,Dark - Lighted,Clear,45,1,0,2019-09-19
+2021,12,7,3,Lee Hwy,Head-On,Property Damage Only,Dawn/Dusk,Cloudy,30,0,0,2021-12-07
+2019,2,5,22,Columbia Pike,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Cloudy,35,1,0,2019-02-05
+2022,6,26,16,Lee Hwy,Angle,Injury,Dark - Unlighted,Clear,25,0,0,2022-06-26
+2020,9,20,14,S Walter Reed Dr,Bicycle Involved,Property Damage Only,Dark - Unlighted,Rain,25,0,1,2020-09-20
+2021,4,17,6,S Walter Reed Dr,Pedestrian Involved,Property Damage Only,Dark - Lighted,Clear,45,1,0,2021-04-17
+2021,11,2,17,Glebe Rd,Head-On,Property Damage Only,Dawn/Dusk,Rain,25,0,0,2021-11-02
+2020,8,21,22,S Walter Reed Dr,Rear-End,Property Damage Only,Daylight,Rain,35,0,0,2020-08-21
+2021,3,13,12,S Walter Reed Dr,Head-On,Injury,Dark - Unlighted,Clear,30,0,0,2021-03-13
+2022,2,1,17,S Walter Reed Dr,Rear-End,Injury,Daylight,Cloudy,35,0,0,2022-02-01
+2020,1,2,17,N Fairfax Dr,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Rain,45,1,0,2020-01-02
+2022,12,13,19,Columbia Pike,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,35,0,1,2022-12-13
+2019,5,3,21,N Pershing Dr,Angle,Injury,Dark - Lighted,Rain,35,0,0,2019-05-03
+2022,10,21,7,Columbia Pike,Sideswipe,Injury,Dawn/Dusk,Clear,30,0,0,2022-10-21
+2019,4,3,17,N Fairfax Dr,Rear-End,Property Damage Only,Dawn/Dusk,Rain,25,0,0,2019-04-03
+2021,11,24,23,Lee Hwy,Rear-End,Property Damage Only,Daylight,Cloudy,30,0,0,2021-11-24
+2019,3,16,11,Clarendon Blvd,Pedestrian Involved,Injury,Dark - Unlighted,Snow/Ice,30,1,0,2019-03-16
+2021,3,24,15,Arlington Blvd,Bicycle Involved,Injury,Daylight,Fog,25,0,1,2021-03-24
+2021,7,9,11,N Pershing Dr,Rear-End,Property Damage Only,Dark - Unlighted,Rain,25,0,0,2021-07-09
+2022,8,17,18,Clarendon Blvd,Rear-End,Injury,Dawn/Dusk,Snow/Ice,30,0,0,2022-08-17
+2021,3,9,12,Columbia Pike,Pedestrian Involved,Injury,Daylight,Clear,30,1,0,2021-03-09
+2023,1,2,14,Wilson Blvd,Angle,Property Damage Only,Daylight,Clear,45,0,0,2023-01-02
+2021,7,5,10,Lee Hwy,Single Vehicle,Property Damage Only,Daylight,Rain,45,0,0,2021-07-05
+2020,6,8,10,N Fairfax Dr,Bicycle Involved,Property Damage Only,Dark - Unlighted,Clear,35,0,1,2020-06-08
+2019,10,12,10,Columbia Pike,Pedestrian Involved,Property Damage Only,Daylight,Clear,30,1,0,2019-10-12
+2020,9,2,16,N Fairfax Dr,Rear-End,Injury,Dawn/Dusk,Rain,35,0,0,2020-09-02
+2021,6,3,12,N Pershing Dr,Head-On,Property Damage Only,Daylight,Fog,35,0,0,2021-06-03
+2020,5,19,14,Arlington Blvd,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,45,0,1,2020-05-19
+2021,10,16,9,Glebe Rd,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,30,0,1,2021-10-16
+2019,7,1,15,Glebe Rd,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Rain,25,1,0,2019-07-01
+2021,1,25,18,N Fairfax Dr,Single Vehicle,Injury,Dark - Unlighted,Rain,25,0,0,2021-01-25
+2020,9,8,22,N Fairfax Dr,Head-On,Property Damage Only,Daylight,Clear,30,0,0,2020-09-08
+2021,2,2,0,Glebe Rd,Single Vehicle,Injury,Dawn/Dusk,Fog,35,0,0,2021-02-02
+2022,12,3,8,S Walter Reed Dr,Rear-End,Serious Injury,Dark - Lighted,Clear,45,0,0,2022-12-03
+2019,10,19,21,Wilson Blvd,Head-On,Property Damage Only,Dark - Lighted,Clear,30,0,0,2019-10-19
+2021,5,28,13,Clarendon Blvd,Single Vehicle,Property Damage Only,Dawn/Dusk,Clear,35,0,0,2021-05-28
+2021,8,9,8,Glebe Rd,Rear-End,Injury,Dark - Lighted,Clear,30,0,0,2021-08-09
+2023,2,5,9,Columbia Pike,Angle,Property Damage Only,Dawn/Dusk,Rain,45,0,0,2023-02-05
+2021,7,4,8,N Pershing Dr,Sideswipe,Property Damage Only,Dark - Lighted,Clear,45,0,0,2021-07-04
+2021,8,9,7,Columbia Pike,Rear-End,Injury,Dark - Lighted,Clear,35,0,0,2021-08-09
+2023,1,7,14,Clarendon Blvd,Angle,Injury,Daylight,Clear,30,0,0,2023-01-07
+2021,7,17,15,Wilson Blvd,Bicycle Involved,Property Damage Only,Dark - Unlighted,Cloudy,35,0,1,2021-07-17
+2020,1,13,13,Washington Blvd,Pedestrian Involved,Injury,Dark - Lighted,Rain,25,1,0,2020-01-13
+2022,2,26,3,Lee Hwy,Rear-End,Injury,Daylight,Cloudy,25,0,0,2022-02-26
+2020,3,7,16,N Fairfax Dr,Sideswipe,Injury,Daylight,Fog,35,0,0,2020-03-07
+2019,1,3,7,Glebe Rd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Rain,30,0,1,2019-01-03
+2019,6,4,11,Wilson Blvd,Head-On,Injury,Daylight,Cloudy,30,0,0,2019-06-04
+2023,7,27,9,N Fairfax Dr,Head-On,Property Damage Only,Daylight,Snow/Ice,45,0,0,2023-07-27
+2022,3,12,8,Glebe Rd,Angle,Injury,Dark - Unlighted,Clear,35,0,0,2022-03-12
+2022,3,2,17,S Walter Reed Dr,Pedestrian Involved,Property Damage Only,Dark - Lighted,Rain,35,1,0,2022-03-02
+2022,7,18,12,Washington Blvd,Rear-End,Property Damage Only,Daylight,Clear,35,0,0,2022-07-18
+2022,3,14,17,Glebe Rd,Bicycle Involved,Injury,Dark - Lighted,Clear,25,0,1,2022-03-14
+2022,12,12,6,Washington Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Rain,35,1,0,2022-12-12
+2023,9,11,16,N Fairfax Dr,Sideswipe,Property Damage Only,Dark - Lighted,Clear,25,0,0,2023-09-11
+2021,10,8,10,Wilson Blvd,Single Vehicle,Property Damage Only,Dark - Unlighted,Clear,25,0,0,2021-10-08
+2022,9,12,23,S Walter Reed Dr,Angle,Property Damage Only,Dark - Lighted,Rain,25,0,0,2022-09-12
+2020,11,8,11,Arlington Blvd,Pedestrian Involved,Property Damage Only,Daylight,Rain,30,1,0,2020-11-08
+2023,7,12,17,Lee Hwy,Angle,Fatal,Dark - Lighted,Clear,35,0,0,2023-07-12
+2021,10,1,6,Clarendon Blvd,Pedestrian Involved,Injury,Dark - Lighted,Rain,30,1,0,2021-10-01
+2022,9,10,8,Lee Hwy,Head-On,Property Damage Only,Daylight,Clear,25,0,0,2022-09-10
+2019,4,20,20,Glebe Rd,Rear-End,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2019-04-20
+2021,10,7,7,Lee Hwy,Sideswipe,Property Damage Only,Dark - Lighted,Clear,35,0,0,2021-10-07
+2019,1,5,14,S Walter Reed Dr,Bicycle Involved,Property Damage Only,Dark - Lighted,Snow/Ice,25,0,1,2019-01-05
+2023,6,3,7,Clarendon Blvd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Fog,25,0,1,2023-06-03
+2021,5,11,17,Lee Hwy,Angle,Property Damage Only,Dawn/Dusk,Clear,45,0,0,2021-05-11
+2021,3,23,9,N Pershing Dr,Bicycle Involved,Injury,Dark - Unlighted,Cloudy,30,0,1,2021-03-23
+2023,3,13,17,Arlington Blvd,Bicycle Involved,Property Damage Only,Dark - Unlighted,Rain,30,0,1,2023-03-13
+2020,12,1,12,S Walter Reed Dr,Head-On,Property Damage Only,Daylight,Rain,30,0,0,2020-12-01
+2023,6,26,22,S Walter Reed Dr,Angle,Property Damage Only,Daylight,Rain,45,0,0,2023-06-26
+2020,6,24,7,Columbia Pike,Angle,Property Damage Only,Dark - Unlighted,Clear,35,0,0,2020-06-24
+2020,11,3,12,Clarendon Blvd,Head-On,Injury,Daylight,Clear,35,0,0,2020-11-03
+2020,4,23,17,Columbia Pike,Sideswipe,Injury,Dark - Unlighted,Cloudy,25,0,0,2020-04-23
+2019,1,13,7,Washington Blvd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,30,0,1,2019-01-13
+2022,8,13,23,Clarendon Blvd,Pedestrian Involved,Serious Injury,Dawn/Dusk,Clear,25,1,0,2022-08-13
+2022,10,21,19,Glebe Rd,Angle,Property Damage Only,Dawn/Dusk,Rain,25,0,0,2022-10-21
+2019,5,1,6,Clarendon Blvd,Sideswipe,Injury,Daylight,Clear,25,0,0,2019-05-01
+2021,3,13,19,Lee Hwy,Bicycle Involved,Injury,Daylight,Rain,25,0,1,2021-03-13
+2021,10,20,2,Washington Blvd,Bicycle Involved,Property Damage Only,Daylight,Clear,45,0,1,2021-10-20
+2020,10,14,10,Lee Hwy,Rear-End,Property Damage Only,Daylight,Cloudy,35,0,0,2020-10-14
+2020,4,14,15,N Pershing Dr,Bicycle Involved,Property Damage Only,Dark - Unlighted,Clear,35,0,1,2020-04-14
+2021,4,4,12,Wilson Blvd,Head-On,Property Damage Only,Dawn/Dusk,Clear,30,0,0,2021-04-04
+2019,6,1,21,N Fairfax Dr,Rear-End,Property Damage Only,Dark - Unlighted,Cloudy,45,0,0,2019-06-01
+2020,2,1,19,Glebe Rd,Angle,Property Damage Only,Dark - Unlighted,Cloudy,25,0,0,2020-02-01
+2022,2,10,6,N Fairfax Dr,Head-On,Injury,Dawn/Dusk,Clear,35,0,0,2022-02-10
+2019,11,18,19,N Fairfax Dr,Angle,Injury,Dark - Unlighted,Snow/Ice,45,0,0,2019-11-18
+2021,3,15,18,Wilson Blvd,Sideswipe,Property Damage Only,Dawn/Dusk,Clear,45,0,0,2021-03-15
+2021,4,27,11,Arlington Blvd,Pedestrian Involved,Property Damage Only,Daylight,Rain,30,1,0,2021-04-27
+2019,2,22,9,Clarendon Blvd,Single Vehicle,Fatal,Dawn/Dusk,Rain,30,0,0,2019-02-22
+2023,1,27,18,N Fairfax Dr,Single Vehicle,Property Damage Only,Dawn/Dusk,Fog,45,0,0,2023-01-27
+2023,4,16,21,Arlington Blvd,Rear-End,Property Damage Only,Dawn/Dusk,Rain,25,0,0,2023-04-16
+2023,10,17,18,S Walter Reed Dr,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,25,0,1,2023-10-17
+2022,3,6,11,Glebe Rd,Single Vehicle,Property Damage Only,Dark - Lighted,Clear,30,0,0,2022-03-06
+2019,7,3,5,N Fairfax Dr,Angle,Property Damage Only,Dark - Lighted,Clear,35,0,0,2019-07-03
+2021,12,26,22,Columbia Pike,Rear-End,Property Damage Only,Dawn/Dusk,Cloudy,45,0,0,2021-12-26
+2023,6,28,12,Arlington Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Clear,25,1,0,2023-06-28
+2023,10,17,12,N Fairfax Dr,Rear-End,Property Damage Only,Dawn/Dusk,Rain,30,0,0,2023-10-17
+2020,10,19,7,S Walter Reed Dr,Single Vehicle,Property Damage Only,Daylight,Rain,25,0,0,2020-10-19
+2023,2,26,7,Arlington Blvd,Single Vehicle,Property Damage Only,Dark - Unlighted,Snow/Ice,45,0,0,2023-02-26
+2021,7,21,12,Washington Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Cloudy,25,1,0,2021-07-21
+2020,5,13,5,Lee Hwy,Pedestrian Involved,Injury,Dawn/Dusk,Cloudy,25,1,0,2020-05-13
+2022,6,23,8,Glebe Rd,Rear-End,Property Damage Only,Dawn/Dusk,Clear,35,0,0,2022-06-23
+2021,1,11,8,Arlington Blvd,Sideswipe,Property Damage Only,Dark - Unlighted,Rain,45,0,0,2021-01-11
+2019,4,5,5,Arlington Blvd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Cloudy,35,0,1,2019-04-05
+2021,12,14,18,S Walter Reed Dr,Bicycle Involved,Property Damage Only,Daylight,Clear,30,0,1,2021-12-14
+2022,4,27,16,N Fairfax Dr,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,35,0,1,2022-04-27
+2019,9,26,6,Lee Hwy,Rear-End,Injury,Dark - Unlighted,Clear,45,0,0,2019-09-26
+2020,9,19,7,Wilson Blvd,Angle,Property Damage Only,Dark - Lighted,Clear,30,0,0,2020-09-19
+2019,4,2,19,Washington Blvd,Rear-End,Injury,Dark - Unlighted,Snow/Ice,30,0,0,2019-04-02
+2021,6,27,0,Washington Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Clear,25,1,0,2021-06-27
+2019,4,12,1,Washington Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Snow/Ice,30,1,0,2019-04-12
+2022,10,18,6,Clarendon Blvd,Sideswipe,Property Damage Only,Dark - Lighted,Clear,35,0,0,2022-10-18
+2019,5,1,0,N Fairfax Dr,Rear-End,Property Damage Only,Dark - Lighted,Cloudy,30,0,0,2019-05-01
+2020,11,8,18,Glebe Rd,Sideswipe,Serious Injury,Dawn/Dusk,Clear,25,0,0,2020-11-08
+2019,8,5,6,Lee Hwy,Pedestrian Involved,Property Damage Only,Daylight,Clear,30,1,0,2019-08-05
+2021,10,26,19,Arlington Blvd,Bicycle Involved,Property Damage Only,Dark - Unlighted,Clear,45,0,1,2021-10-26
+2022,6,15,7,Arlington Blvd,Angle,Property Damage Only,Dawn/Dusk,Rain,35,0,0,2022-06-15
+2023,10,13,13,S Walter Reed Dr,Rear-End,Property Damage Only,Daylight,Clear,35,0,0,2023-10-13
+2023,11,20,12,S Walter Reed Dr,Sideswipe,Injury,Dark - Unlighted,Fog,25,0,0,2023-11-20
+2022,2,11,22,Arlington Blvd,Bicycle Involved,Injury,Dark - Unlighted,Clear,35,0,1,2022-02-11
+2021,11,23,17,Arlington Blvd,Angle,Property Damage Only,Dark - Lighted,Clear,30,0,0,2021-11-23
+2019,10,13,19,Clarendon Blvd,Bicycle Involved,Property Damage Only,Dark - Lighted,Cloudy,25,0,1,2019-10-13
+2022,5,9,12,N Fairfax Dr,Head-On,Injury,Dawn/Dusk,Rain,25,0,0,2022-05-09
+2023,12,19,20,Glebe Rd,Sideswipe,Injury,Dark - Lighted,Rain,45,0,0,2023-12-19
+2021,9,10,5,Lee Hwy,Single Vehicle,Property Damage Only,Dark - Lighted,Clear,35,0,0,2021-09-10
+2019,8,5,17,Arlington Blvd,Bicycle Involved,Property Damage Only,Dark - Lighted,Rain,35,0,1,2019-08-05
+2019,4,12,3,Glebe Rd,Bicycle Involved,Property Damage Only,Dark - Unlighted,Rain,45,0,1,2019-04-12
+2021,6,9,5,S Walter Reed Dr,Sideswipe,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2021-06-09
+2022,1,28,22,S Walter Reed Dr,Pedestrian Involved,Injury,Daylight,Clear,45,1,0,2022-01-28
+2020,9,4,8,N Fairfax Dr,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Snow/Ice,45,1,0,2020-09-04
+2019,3,5,17,Glebe Rd,Sideswipe,Property Damage Only,Dawn/Dusk,Clear,45,0,0,2019-03-05
+2020,6,28,6,Lee Hwy,Single Vehicle,Injury,Daylight,Snow/Ice,45,0,0,2020-06-28
+2021,11,6,8,Clarendon Blvd,Bicycle Involved,Property Damage Only,Daylight,Clear,25,0,1,2021-11-06
+2022,5,7,22,Lee Hwy,Pedestrian Involved,Property Damage Only,Dark - Lighted,Snow/Ice,45,1,0,2022-05-07
+2019,3,20,16,N Fairfax Dr,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,45,0,1,2019-03-20
+2022,8,13,6,Wilson Blvd,Rear-End,Property Damage Only,Dark - Lighted,Snow/Ice,35,0,0,2022-08-13
+2019,6,25,16,N Pershing Dr,Angle,Property Damage Only,Daylight,Clear,25,0,0,2019-06-25
+2020,4,23,22,Clarendon Blvd,Sideswipe,Injury,Dark - Lighted,Clear,25,0,0,2020-04-23
+2022,9,19,23,Arlington Blvd,Angle,Property Damage Only,Daylight,Rain,25,0,0,2022-09-19
+2021,5,15,18,N Pershing Dr,Pedestrian Involved,Injury,Dark - Unlighted,Rain,45,1,0,2021-05-15
+2020,6,16,6,Clarendon Blvd,Single Vehicle,Property Damage Only,Dark - Lighted,Cloudy,30,0,0,2020-06-16
+2022,1,8,7,Glebe Rd,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,30,0,1,2022-01-08
+2019,10,17,12,Lee Hwy,Rear-End,Property Damage Only,Dark - Unlighted,Cloudy,25,0,0,2019-10-17
+2022,11,9,8,N Pershing Dr,Pedestrian Involved,Property Damage Only,Daylight,Clear,25,1,0,2022-11-09
+2019,11,27,20,Wilson Blvd,Rear-End,Injury,Daylight,Clear,45,0,0,2019-11-27
+2022,7,4,18,N Pershing Dr,Sideswipe,Injury,Dawn/Dusk,Snow/Ice,30,0,0,2022-07-04
+2020,12,22,21,Wilson Blvd,Sideswipe,Property Damage Only,Dawn/Dusk,Snow/Ice,25,0,0,2020-12-22
+2023,5,20,12,S Walter Reed Dr,Bicycle Involved,Injury,Dark - Lighted,Rain,45,0,1,2023-05-20
+2019,9,24,18,S Walter Reed Dr,Rear-End,Injury,Dark - Unlighted,Clear,25,0,0,2019-09-24
+2019,8,7,14,S Walter Reed Dr,Angle,Fatal,Dark - Unlighted,Cloudy,30,0,0,2019-08-07
+2021,12,14,3,Arlington Blvd,Angle,Property Damage Only,Daylight,Clear,45,0,0,2021-12-14
+2020,12,16,17,Clarendon Blvd,Angle,Injury,Daylight,Clear,25,0,0,2020-12-16
+2019,2,27,13,S Walter Reed Dr,Bicycle Involved,Injury,Dawn/Dusk,Rain,30,0,1,2019-02-27
+2019,9,3,14,Columbia Pike,Sideswipe,Property Damage Only,Dark - Lighted,Clear,45,0,0,2019-09-03
+2021,5,15,8,Wilson Blvd,Rear-End,Property Damage Only,Dark - Lighted,Rain,25,0,0,2021-05-15
+2021,6,26,19,Clarendon Blvd,Head-On,Injury,Daylight,Snow/Ice,25,0,0,2021-06-26
+2019,1,28,7,Lee Hwy,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,35,0,1,2019-01-28
+2021,8,20,8,Arlington Blvd,Bicycle Involved,Injury,Daylight,Cloudy,35,0,1,2021-08-20
+2021,3,4,6,N Fairfax Dr,Head-On,Property Damage Only,Dawn/Dusk,Snow/Ice,35,0,0,2021-03-04
+2022,12,28,7,Washington Blvd,Single Vehicle,Property Damage Only,Dawn/Dusk,Rain,30,0,0,2022-12-28
+2019,3,23,16,Wilson Blvd,Single Vehicle,Property Damage Only,Dark - Lighted,Clear,25,0,0,2019-03-23
+2022,10,16,18,S Walter Reed Dr,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,30,0,1,2022-10-16
+2023,7,25,18,Clarendon Blvd,Pedestrian Involved,Property Damage Only,Daylight,Rain,30,1,0,2023-07-25
+2022,8,4,7,N Fairfax Dr,Head-On,Serious Injury,Daylight,Clear,25,0,0,2022-08-04
+2021,11,11,9,Wilson Blvd,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,35,0,1,2021-11-11
+2023,9,23,19,S Walter Reed Dr,Rear-End,Fatal,Dawn/Dusk,Clear,30,0,0,2023-09-23
+2022,6,22,12,N Fairfax Dr,Angle,Injury,Daylight,Fog,25,0,0,2022-06-22
+2020,9,28,16,Washington Blvd,Single Vehicle,Property Damage Only,Dawn/Dusk,Clear,30,0,0,2020-09-28
+2019,8,11,17,Glebe Rd,Sideswipe,Property Damage Only,Dark - Unlighted,Rain,25,0,0,2019-08-11
+2023,4,18,9,N Fairfax Dr,Head-On,Injury,Dark - Lighted,Clear,25,0,0,2023-04-18
+2022,8,26,15,S Walter Reed Dr,Head-On,Property Damage Only,Daylight,Rain,45,0,0,2022-08-26
+2022,6,4,5,Washington Blvd,Bicycle Involved,Property Damage Only,Daylight,Rain,25,0,1,2022-06-04
+2022,7,2,15,N Pershing Dr,Pedestrian Involved,Property Damage Only,Daylight,Rain,25,1,0,2022-07-02
+2023,10,21,18,Arlington Blvd,Pedestrian Involved,Property Damage Only,Dark - Lighted,Snow/Ice,45,1,0,2023-10-21
+2021,6,27,13,Wilson Blvd,Single Vehicle,Property Damage Only,Dark - Lighted,Clear,45,0,0,2021-06-27
+2021,9,25,9,S Walter Reed Dr,Pedestrian Involved,Injury,Dawn/Dusk,Rain,35,1,0,2021-09-25
+2022,2,4,18,Glebe Rd,Rear-End,Property Damage Only,Dark - Unlighted,Clear,35,0,0,2022-02-04
+2021,9,17,7,Clarendon Blvd,Bicycle Involved,Property Damage Only,Daylight,Clear,25,0,1,2021-09-17
+2020,8,5,6,N Fairfax Dr,Rear-End,Property Damage Only,Dark - Unlighted,Rain,30,0,0,2020-08-05
+2020,2,28,17,N Fairfax Dr,Angle,Fatal,Dawn/Dusk,Cloudy,30,0,0,2020-02-28
+2021,2,25,16,N Fairfax Dr,Rear-End,Property Damage Only,Daylight,Rain,45,0,0,2021-02-25
+2022,11,19,18,N Pershing Dr,Angle,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2022-11-19
+2023,12,2,19,N Pershing Dr,Head-On,Property Damage Only,Dawn/Dusk,Rain,30,0,0,2023-12-02
+2023,3,24,15,Lee Hwy,Rear-End,Property Damage Only,Dawn/Dusk,Clear,35,0,0,2023-03-24
+2023,7,14,9,S Walter Reed Dr,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,35,0,1,2023-07-14
+2022,6,10,19,Washington Blvd,Single Vehicle,Property Damage Only,Dark - Lighted,Clear,30,0,0,2022-06-10
+2022,10,23,8,N Pershing Dr,Sideswipe,Serious Injury,Dark - Unlighted,Clear,30,0,0,2022-10-23
+2020,4,20,11,Arlington Blvd,Bicycle Involved,Injury,Dark - Unlighted,Snow/Ice,30,0,1,2020-04-20
+2020,9,18,7,Clarendon Blvd,Bicycle Involved,Injury,Daylight,Clear,35,0,1,2020-09-18
+2023,8,19,13,S Walter Reed Dr,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,35,0,1,2023-08-19
+2022,1,17,17,Columbia Pike,Rear-End,Property Damage Only,Dawn/Dusk,Clear,30,0,0,2022-01-17
+2019,11,2,17,Glebe Rd,Sideswipe,Injury,Dark - Lighted,Clear,35,0,0,2019-11-02
+2021,3,27,16,Wilson Blvd,Bicycle Involved,Property Damage Only,Dark - Unlighted,Snow/Ice,30,0,1,2021-03-27
+2023,1,12,17,Washington Blvd,Rear-End,Serious Injury,Dark - Lighted,Clear,45,0,0,2023-01-12
+2020,9,26,5,Arlington Blvd,Bicycle Involved,Property Damage Only,Daylight,Clear,45,0,1,2020-09-26
+2022,7,26,8,Clarendon Blvd,Pedestrian Involved,Serious Injury,Daylight,Clear,25,1,0,2022-07-26
+2021,4,20,8,Washington Blvd,Single Vehicle,Injury,Dark - Lighted,Clear,35,0,0,2021-04-20
+2023,9,24,18,S Walter Reed Dr,Angle,Property Damage Only,Dark - Lighted,Clear,35,0,0,2023-09-24
+2022,3,22,2,Columbia Pike,Angle,Property Damage Only,Dark - Lighted,Cloudy,25,0,0,2022-03-22
+2022,1,14,6,Arlington Blvd,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Clear,30,1,0,2022-01-14
+2020,10,28,9,Arlington Blvd,Rear-End,Injury,Dark - Unlighted,Clear,45,0,0,2020-10-28
+2020,1,5,17,Clarendon Blvd,Pedestrian Involved,Serious Injury,Daylight,Rain,35,1,0,2020-01-05
+2022,10,18,21,Clarendon Blvd,Rear-End,Property Damage Only,Dark - Unlighted,Clear,30,0,0,2022-10-18
+2020,9,3,8,N Pershing Dr,Angle,Injury,Dawn/Dusk,Cloudy,45,0,0,2020-09-03
+2019,6,8,8,Glebe Rd,Bicycle Involved,Injury,Dark - Unlighted,Clear,35,0,1,2019-06-08
+2021,5,7,15,S Walter Reed Dr,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Cloudy,25,1,0,2021-05-07
+2019,11,12,16,Washington Blvd,Angle,Property Damage Only,Dark - Lighted,Clear,25,0,0,2019-11-12
+2021,7,26,7,Columbia Pike,Head-On,Property Damage Only,Dark - Unlighted,Clear,35,0,0,2021-07-26
+2019,9,27,19,Clarendon Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Clear,45,1,0,2019-09-27
+2019,5,21,6,Glebe Rd,Sideswipe,Injury,Daylight,Rain,25,0,0,2019-05-21
+2020,9,18,5,Wilson Blvd,Bicycle Involved,Injury,Daylight,Clear,30,0,1,2020-09-18
+2020,11,14,5,Columbia Pike,Angle,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2020-11-14
+2020,1,15,7,Clarendon Blvd,Rear-End,Serious Injury,Daylight,Snow/Ice,25,0,0,2020-01-15
+2019,3,26,17,Arlington Blvd,Pedestrian Involved,Property Damage Only,Daylight,Clear,30,1,0,2019-03-26
+2021,7,13,17,Washington Blvd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,45,0,1,2021-07-13
+2021,1,13,13,Columbia Pike,Pedestrian Involved,Injury,Daylight,Clear,25,1,0,2021-01-13
+2023,1,23,4,Columbia Pike,Sideswipe,Injury,Daylight,Clear,35,0,0,2023-01-23
+2021,10,3,8,Arlington Blvd,Single Vehicle,Property Damage Only,Dawn/Dusk,Clear,45,0,0,2021-10-03
+2022,11,1,18,Washington Blvd,Angle,Property Damage Only,Dark - Lighted,Clear,30,0,0,2022-11-01
+2022,9,10,19,Lee Hwy,Sideswipe,Injury,Dark - Unlighted,Fog,25,0,0,2022-09-10
+2023,9,5,8,Columbia Pike,Rear-End,Property Damage Only,Daylight,Cloudy,45,0,0,2023-09-05
+2023,9,3,18,Arlington Blvd,Angle,Property Damage Only,Dark - Unlighted,Clear,30,0,0,2023-09-03
+2022,11,28,12,N Pershing Dr,Angle,Serious Injury,Dark - Lighted,Clear,30,0,0,2022-11-28
+2020,10,27,13,Arlington Blvd,Angle,Property Damage Only,Daylight,Rain,30,0,0,2020-10-27
+2023,1,28,18,N Pershing Dr,Head-On,Property Damage Only,Daylight,Snow/Ice,35,0,0,2023-01-28
+2019,5,4,22,Glebe Rd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,35,0,1,2019-05-04
+2021,3,22,8,Glebe Rd,Rear-End,Injury,Dark - Unlighted,Rain,25,0,0,2021-03-22
+2020,6,16,16,Washington Blvd,Sideswipe,Injury,Dark - Unlighted,Clear,30,0,0,2020-06-16
+2023,10,12,20,Clarendon Blvd,Head-On,Property Damage Only,Dark - Lighted,Clear,25,0,0,2023-10-12
+2021,4,26,17,Glebe Rd,Bicycle Involved,Injury,Dawn/Dusk,Clear,35,0,1,2021-04-26
+2021,3,22,19,Clarendon Blvd,Head-On,Serious Injury,Dawn/Dusk,Clear,45,0,0,2021-03-22
+2021,5,16,23,N Pershing Dr,Rear-End,Property Damage Only,Dark - Lighted,Clear,25,0,0,2021-05-16
+2021,3,18,7,Glebe Rd,Sideswipe,Injury,Daylight,Rain,25,0,0,2021-03-18
+2019,9,21,7,Wilson Blvd,Single Vehicle,Property Damage Only,Dawn/Dusk,Rain,30,0,0,2019-09-21
+2019,9,9,5,N Pershing Dr,Pedestrian Involved,Injury,Dawn/Dusk,Snow/Ice,30,1,0,2019-09-09
+2021,7,8,13,S Walter Reed Dr,Bicycle Involved,Serious Injury,Dark - Unlighted,Clear,30,0,1,2021-07-08
+2022,9,17,23,Columbia Pike,Head-On,Injury,Dark - Unlighted,Rain,25,0,0,2022-09-17
+2020,10,22,7,Lee Hwy,Single Vehicle,Injury,Dark - Lighted,Clear,45,0,0,2020-10-22
+2020,3,19,7,S Walter Reed Dr,Bicycle Involved,Property Damage Only,Dark - Lighted,Rain,45,0,1,2020-03-19
+2021,1,8,14,Washington Blvd,Angle,Injury,Daylight,Fog,35,0,0,2021-01-08
+2021,4,2,5,Glebe Rd,Pedestrian Involved,Injury,Dark - Unlighted,Clear,45,1,0,2021-04-02
+2022,8,2,19,Wilson Blvd,Bicycle Involved,Injury,Dark - Unlighted,Clear,25,0,1,2022-08-02
+2023,11,27,17,Arlington Blvd,Single Vehicle,Property Damage Only,Dark - Unlighted,Clear,30,0,0,2023-11-27
+2022,11,13,18,Clarendon Blvd,Pedestrian Involved,Property Damage Only,Daylight,Clear,35,1,0,2022-11-13
+2022,4,17,13,N Fairfax Dr,Sideswipe,Injury,Dark - Unlighted,Clear,45,0,0,2022-04-17
+2022,10,1,7,N Pershing Dr,Angle,Injury,Dawn/Dusk,Snow/Ice,30,0,0,2022-10-01
+2020,2,17,6,Arlington Blvd,Angle,Property Damage Only,Dark - Lighted,Clear,30,0,0,2020-02-17
+2020,6,20,9,Columbia Pike,Bicycle Involved,Property Damage Only,Dark - Lighted,Rain,45,0,1,2020-06-20
+2021,12,4,17,Washington Blvd,Bicycle Involved,Injury,Dawn/Dusk,Clear,45,0,1,2021-12-04
+2020,10,6,19,N Fairfax Dr,Rear-End,Property Damage Only,Dark - Lighted,Cloudy,25,0,0,2020-10-06
+2020,10,19,16,Lee Hwy,Angle,Property Damage Only,Daylight,Rain,30,0,0,2020-10-19
+2019,3,9,9,Lee Hwy,Pedestrian Involved,Injury,Dawn/Dusk,Clear,25,1,0,2019-03-09
+2021,2,7,7,Washington Blvd,Pedestrian Involved,Injury,Dawn/Dusk,Clear,45,1,0,2021-02-07
+2020,4,27,19,N Fairfax Dr,Pedestrian Involved,Property Damage Only,Dark - Lighted,Rain,30,1,0,2020-04-27
+2023,11,17,17,Arlington Blvd,Angle,Property Damage Only,Dark - Unlighted,Clear,45,0,0,2023-11-17
+2023,10,3,7,Glebe Rd,Head-On,Property Damage Only,Dawn/Dusk,Clear,30,0,0,2023-10-03
+2019,1,7,17,N Pershing Dr,Single Vehicle,Serious Injury,Dawn/Dusk,Fog,30,0,0,2019-01-07
+2023,2,6,18,Washington Blvd,Pedestrian Involved,Injury,Daylight,Rain,25,1,0,2023-02-06
+2019,8,22,8,Lee Hwy,Pedestrian Involved,Serious Injury,Daylight,Rain,45,1,0,2019-08-22
+2023,7,12,15,Wilson Blvd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,30,0,1,2023-07-12
+2022,7,12,12,S Walter Reed Dr,Single Vehicle,Injury,Daylight,Clear,45,0,0,2022-07-12
+2020,5,16,10,Glebe Rd,Single Vehicle,Fatal,Daylight,Clear,35,0,0,2020-05-16
+2023,9,14,11,Arlington Blvd,Angle,Property Damage Only,Daylight,Rain,25,0,0,2023-09-14
+2023,9,4,21,N Pershing Dr,Rear-End,Property Damage Only,Dawn/Dusk,Fog,30,0,0,2023-09-04
+2021,7,12,8,Columbia Pike,Angle,Serious Injury,Dawn/Dusk,Snow/Ice,35,0,0,2021-07-12
+2021,9,14,18,S Walter Reed Dr,Sideswipe,Property Damage Only,Dark - Unlighted,Cloudy,45,0,0,2021-09-14
+2020,7,18,17,N Pershing Dr,Head-On,Property Damage Only,Dark - Lighted,Snow/Ice,35,0,0,2020-07-18
+2023,9,16,8,Arlington Blvd,Sideswipe,Injury,Dark - Unlighted,Clear,45,0,0,2023-09-16
+2020,11,4,17,Glebe Rd,Head-On,Property Damage Only,Dark - Lighted,Clear,25,0,0,2020-11-04
+2020,9,13,8,Clarendon Blvd,Single Vehicle,Property Damage Only,Daylight,Clear,30,0,0,2020-09-13
+2022,11,1,8,Columbia Pike,Single Vehicle,Property Damage Only,Dark - Lighted,Clear,45,0,0,2022-11-01
+2023,7,3,8,Columbia Pike,Sideswipe,Injury,Dark - Lighted,Clear,35,0,0,2023-07-03
+2019,10,2,20,N Fairfax Dr,Head-On,Injury,Dark - Unlighted,Rain,25,0,0,2019-10-02
+2020,11,16,16,Washington Blvd,Rear-End,Injury,Dark - Lighted,Clear,35,0,0,2020-11-16
+2020,1,26,5,S Walter Reed Dr,Pedestrian Involved,Property Damage Only,Dark - Lighted,Snow/Ice,30,1,0,2020-01-26
+2019,6,8,2,Wilson Blvd,Angle,Property Damage Only,Daylight,Cloudy,35,0,0,2019-06-08
+2022,6,22,19,N Fairfax Dr,Head-On,Property Damage Only,Dark - Lighted,Clear,25,0,0,2022-06-22
+2019,2,18,19,Arlington Blvd,Bicycle Involved,Property Damage Only,Dark - Unlighted,Clear,35,0,1,2019-02-18
+2021,4,20,6,Glebe Rd,Head-On,Serious Injury,Dawn/Dusk,Rain,25,0,0,2021-04-20
+2021,3,14,19,N Pershing Dr,Rear-End,Injury,Daylight,Rain,35,0,0,2021-03-14
+2021,2,26,14,N Pershing Dr,Sideswipe,Property Damage Only,Dark - Unlighted,Clear,45,0,0,2021-02-26
+2022,10,16,12,Glebe Rd,Single Vehicle,Injury,Dark - Unlighted,Rain,45,0,0,2022-10-16
+2022,10,28,20,Wilson Blvd,Head-On,Property Damage Only,Daylight,Rain,35,0,0,2022-10-28
+2019,7,21,16,Glebe Rd,Bicycle Involved,Property Damage Only,Dark - Lighted,Rain,35,0,1,2019-07-21
+2022,6,17,8,N Pershing Dr,Rear-End,Property Damage Only,Dark - Unlighted,Clear,30,0,0,2022-06-17
+2021,2,13,10,Clarendon Blvd,Rear-End,Property Damage Only,Dark - Lighted,Rain,45,0,0,2021-02-13
+2021,6,7,21,S Walter Reed Dr,Sideswipe,Property Damage Only,Dark - Lighted,Rain,30,0,0,2021-06-07
+2022,12,7,13,Glebe Rd,Bicycle Involved,Injury,Dark - Lighted,Clear,35,0,1,2022-12-07
+2020,4,7,8,Glebe Rd,Single Vehicle,Property Damage Only,Dark - Unlighted,Clear,30,0,0,2020-04-07
+2019,2,3,4,Washington Blvd,Pedestrian Involved,Property Damage Only,Daylight,Clear,25,1,0,2019-02-03
+2022,6,20,22,Clarendon Blvd,Head-On,Property Damage Only,Dark - Unlighted,Clear,45,0,0,2022-06-20
+2020,9,9,7,N Fairfax Dr,Angle,Property Damage Only,Dark - Lighted,Clear,25,0,0,2020-09-09
+2023,7,16,7,N Pershing Dr,Rear-End,Property Damage Only,Dark - Unlighted,Clear,45,0,0,2023-07-16
+2020,8,4,0,N Pershing Dr,Head-On,Property Damage Only,Dark - Unlighted,Clear,25,0,0,2020-08-04
+2019,11,7,6,N Fairfax Dr,Pedestrian Involved,Property Damage Only,Daylight,Snow/Ice,35,1,0,2019-11-07
+2021,10,28,15,Arlington Blvd,Angle,Property Damage Only,Dark - Unlighted,Clear,30,0,0,2021-10-28
+2021,8,20,21,Clarendon Blvd,Sideswipe,Property Damage Only,Dark - Lighted,Clear,45,0,0,2021-08-20
+2022,4,14,16,Clarendon Blvd,Sideswipe,Property Damage Only,Dawn/Dusk,Clear,35,0,0,2022-04-14
+2022,3,19,13,Lee Hwy,Pedestrian Involved,Injury,Dark - Lighted,Clear,25,1,0,2022-03-19
+2021,4,18,17,N Fairfax Dr,Single Vehicle,Fatal,Dawn/Dusk,Clear,30,0,0,2021-04-18
+2020,12,5,8,Washington Blvd,Single Vehicle,Property Damage Only,Daylight,Clear,30,0,0,2020-12-05
+2022,8,5,11,N Pershing Dr,Pedestrian Involved,Serious Injury,Dark - Unlighted,Rain,45,1,0,2022-08-05
+2021,5,18,16,S Walter Reed Dr,Rear-End,Property Damage Only,Dawn/Dusk,Snow/Ice,25,0,0,2021-05-18
+2020,1,7,22,Arlington Blvd,Head-On,Injury,Daylight,Clear,45,0,0,2020-01-07
+2021,5,12,16,Clarendon Blvd,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Clear,35,1,0,2021-05-12
+2019,7,4,5,Clarendon Blvd,Single Vehicle,Property Damage Only,Dark - Lighted,Rain,30,0,0,2019-07-04
+2021,6,11,6,N Pershing Dr,Head-On,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2021-06-11
+2022,10,10,10,Washington Blvd,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,30,0,1,2022-10-10
+2021,7,21,18,S Walter Reed Dr,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Clear,25,1,0,2021-07-21
+2019,3,11,9,Glebe Rd,Sideswipe,Serious Injury,Dark - Unlighted,Rain,35,0,0,2019-03-11
+2021,10,21,17,N Fairfax Dr,Sideswipe,Property Damage Only,Dawn/Dusk,Rain,35,0,0,2021-10-21
+2023,9,15,0,N Fairfax Dr,Angle,Injury,Dark - Lighted,Cloudy,25,0,0,2023-09-15
+2020,12,8,16,Arlington Blvd,Bicycle Involved,Injury,Daylight,Rain,30,0,1,2020-12-08
+2020,7,4,6,Columbia Pike,Rear-End,Serious Injury,Dawn/Dusk,Clear,25,0,0,2020-07-04
+2019,7,17,14,Columbia Pike,Rear-End,Property Damage Only,Dark - Unlighted,Clear,30,0,0,2019-07-17
+2019,11,13,11,Arlington Blvd,Angle,Property Damage Only,Dark - Lighted,Clear,35,0,0,2019-11-13
+2022,11,5,15,Lee Hwy,Pedestrian Involved,Property Damage Only,Dark - Lighted,Clear,25,1,0,2022-11-05
+2019,11,12,15,Clarendon Blvd,Single Vehicle,Property Damage Only,Dawn/Dusk,Rain,45,0,0,2019-11-12
+2023,5,18,17,Washington Blvd,Angle,Injury,Dark - Lighted,Rain,45,0,0,2023-05-18
+2023,7,17,11,N Pershing Dr,Sideswipe,Injury,Dark - Unlighted,Clear,45,0,0,2023-07-17
+2023,4,26,8,Columbia Pike,Head-On,Injury,Dark - Unlighted,Clear,35,0,0,2023-04-26
+2022,5,5,18,Arlington Blvd,Rear-End,Injury,Daylight,Fog,30,0,0,2022-05-05
+2021,5,16,20,N Pershing Dr,Rear-End,Property Damage Only,Dawn/Dusk,Clear,45,0,0,2021-05-16
+2021,1,25,15,N Fairfax Dr,Single Vehicle,Property Damage Only,Dark - Unlighted,Rain,30,0,0,2021-01-25
+2019,9,12,17,Glebe Rd,Head-On,Injury,Dawn/Dusk,Clear,45,0,0,2019-09-12
+2020,3,23,7,N Fairfax Dr,Single Vehicle,Property Damage Only,Dawn/Dusk,Clear,30,0,0,2020-03-23
+2021,2,14,20,Glebe Rd,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Clear,35,1,0,2021-02-14
+2023,5,14,1,Glebe Rd,Single Vehicle,Injury,Daylight,Rain,30,0,0,2023-05-14
+2020,5,4,9,Washington Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Clear,35,1,0,2020-05-04
+2023,8,7,9,Clarendon Blvd,Rear-End,Injury,Dark - Lighted,Rain,25,0,0,2023-08-07
+2023,1,6,10,Columbia Pike,Sideswipe,Property Damage Only,Dark - Unlighted,Cloudy,30,0,0,2023-01-06
+2022,12,1,12,Glebe Rd,Rear-End,Injury,Dark - Lighted,Clear,25,0,0,2022-12-01
+2022,4,11,13,N Fairfax Dr,Sideswipe,Property Damage Only,Dawn/Dusk,Clear,35,0,0,2022-04-11
+2022,12,26,22,Wilson Blvd,Sideswipe,Property Damage Only,Daylight,Clear,30,0,0,2022-12-26
+2019,5,25,2,N Fairfax Dr,Rear-End,Property Damage Only,Dawn/Dusk,Clear,30,0,0,2019-05-25
+2020,5,27,1,N Fairfax Dr,Single Vehicle,Injury,Daylight,Clear,25,0,0,2020-05-27
+2020,7,25,8,Washington Blvd,Angle,Serious Injury,Daylight,Clear,30,0,0,2020-07-25
+2022,12,25,22,Columbia Pike,Pedestrian Involved,Property Damage Only,Dark - Lighted,Fog,45,1,0,2022-12-25
+2022,11,10,16,Clarendon Blvd,Angle,Injury,Daylight,Cloudy,25,0,0,2022-11-10
+2021,8,21,8,Arlington Blvd,Angle,Serious Injury,Dark - Unlighted,Clear,25,0,0,2021-08-21
+2020,2,8,10,N Fairfax Dr,Sideswipe,Property Damage Only,Daylight,Clear,30,0,0,2020-02-08
+2021,10,4,7,N Fairfax Dr,Single Vehicle,Property Damage Only,Dark - Lighted,Clear,25,0,0,2021-10-04
+2019,10,26,18,Washington Blvd,Bicycle Involved,Injury,Dark - Lighted,Clear,35,0,1,2019-10-26
+2019,4,6,8,Washington Blvd,Rear-End,Property Damage Only,Dark - Unlighted,Clear,25,0,0,2019-04-06
+2019,6,21,5,Lee Hwy,Bicycle Involved,Property Damage Only,Daylight,Clear,30,0,1,2019-06-21
+2022,4,11,22,N Pershing Dr,Single Vehicle,Property Damage Only,Dark - Unlighted,Clear,45,0,0,2022-04-11
+2020,1,23,15,N Fairfax Dr,Sideswipe,Property Damage Only,Dark - Lighted,Clear,35,0,0,2020-01-23
+2019,8,23,16,Washington Blvd,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Clear,45,1,0,2019-08-23
+2020,10,6,23,N Pershing Dr,Sideswipe,Injury,Dark - Unlighted,Rain,45,0,0,2020-10-06
+2021,10,28,15,N Pershing Dr,Angle,Injury,Daylight,Clear,30,0,0,2021-10-28
+2022,5,27,11,Arlington Blvd,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Clear,45,1,0,2022-05-27
+2019,11,17,14,N Fairfax Dr,Bicycle Involved,Property Damage Only,Dark - Lighted,Cloudy,25,0,1,2019-11-17
+2023,6,25,20,S Walter Reed Dr,Angle,Injury,Dark - Unlighted,Clear,25,0,0,2023-06-25
+2023,7,7,19,N Pershing Dr,Bicycle Involved,Property Damage Only,Dawn/Dusk,Snow/Ice,30,0,1,2023-07-07
+2023,5,11,6,N Fairfax Dr,Bicycle Involved,Injury,Dark - Unlighted,Clear,25,0,1,2023-05-11
+2019,9,22,19,Columbia Pike,Rear-End,Serious Injury,Dark - Lighted,Clear,30,0,0,2019-09-22
+2019,4,4,12,Washington Blvd,Angle,Fatal,Daylight,Clear,25,0,0,2019-04-04
+2023,11,27,19,N Fairfax Dr,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,35,0,1,2023-11-27
+2019,6,8,8,S Walter Reed Dr,Bicycle Involved,Property Damage Only,Daylight,Snow/Ice,25,0,1,2019-06-08
+2020,11,16,10,Columbia Pike,Head-On,Property Damage Only,Daylight,Clear,35,0,0,2020-11-16
+2023,12,14,15,Clarendon Blvd,Single Vehicle,Injury,Daylight,Cloudy,35,0,0,2023-12-14
+2023,1,24,11,Columbia Pike,Single Vehicle,Injury,Dark - Unlighted,Snow/Ice,25,0,0,2023-01-24
+2020,9,4,15,Columbia Pike,Bicycle Involved,Serious Injury,Dark - Lighted,Clear,45,0,1,2020-09-04
+2020,4,17,6,Glebe Rd,Pedestrian Involved,Injury,Dark - Lighted,Clear,45,1,0,2020-04-17
+2019,11,19,19,Clarendon Blvd,Bicycle Involved,Injury,Dawn/Dusk,Clear,45,0,1,2019-11-19
+2019,3,26,20,Lee Hwy,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Clear,35,1,0,2019-03-26
+2020,9,20,16,Washington Blvd,Sideswipe,Serious Injury,Dark - Unlighted,Clear,35,0,0,2020-09-20
+2021,7,25,13,N Fairfax Dr,Single Vehicle,Injury,Dark - Unlighted,Rain,30,0,0,2021-07-25
+2023,9,7,17,N Fairfax Dr,Single Vehicle,Property Damage Only,Dark - Unlighted,Clear,35,0,0,2023-09-07
+2022,8,13,10,Wilson Blvd,Bicycle Involved,Injury,Daylight,Clear,35,0,1,2022-08-13
+2023,1,17,7,Lee Hwy,Sideswipe,Serious Injury,Daylight,Clear,35,0,0,2023-01-17
+2020,4,28,23,Clarendon Blvd,Rear-End,Injury,Dark - Unlighted,Snow/Ice,30,0,0,2020-04-28
+2019,1,15,8,Clarendon Blvd,Angle,Property Damage Only,Dark - Lighted,Rain,35,0,0,2019-01-15
+2021,10,8,19,Glebe Rd,Sideswipe,Injury,Dark - Unlighted,Clear,25,0,0,2021-10-08
+2023,7,19,18,Glebe Rd,Bicycle Involved,Injury,Daylight,Rain,35,0,1,2023-07-19
+2022,3,16,18,S Walter Reed Dr,Single Vehicle,Injury,Daylight,Rain,35,0,0,2022-03-16
+2019,12,26,6,S Walter Reed Dr,Head-On,Property Damage Only,Daylight,Clear,25,0,0,2019-12-26
+2021,6,27,11,N Fairfax Dr,Head-On,Property Damage Only,Daylight,Clear,30,0,0,2021-06-27
+2023,1,21,9,N Fairfax Dr,Rear-End,Property Damage Only,Dark - Unlighted,Snow/Ice,25,0,0,2023-01-21
+2021,9,19,21,Lee Hwy,Sideswipe,Property Damage Only,Dark - Lighted,Cloudy,30,0,0,2021-09-19
+2019,11,24,14,N Fairfax Dr,Head-On,Property Damage Only,Daylight,Clear,30,0,0,2019-11-24
+2022,5,26,13,N Fairfax Dr,Angle,Injury,Dark - Lighted,Rain,35,0,0,2022-05-26
+2019,8,19,4,Wilson Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Clear,35,1,0,2019-08-19
+2019,7,17,8,N Fairfax Dr,Single Vehicle,Property Damage Only,Dark - Lighted,Clear,30,0,0,2019-07-17
+2022,9,7,18,Washington Blvd,Head-On,Serious Injury,Dark - Lighted,Clear,30,0,0,2022-09-07
+2020,2,9,20,N Fairfax Dr,Sideswipe,Property Damage Only,Daylight,Clear,25,0,0,2020-02-09
+2022,7,12,7,Clarendon Blvd,Angle,Injury,Dark - Unlighted,Cloudy,35,0,0,2022-07-12
+2023,11,1,16,Arlington Blvd,Angle,Property Damage Only,Dark - Unlighted,Rain,45,0,0,2023-11-01
+2023,3,15,6,Wilson Blvd,Single Vehicle,Injury,Dark - Lighted,Clear,30,0,0,2023-03-15
+2021,3,25,12,Columbia Pike,Rear-End,Property Damage Only,Daylight,Rain,30,0,0,2021-03-25
+2023,3,28,5,Arlington Blvd,Rear-End,Injury,Dark - Unlighted,Clear,25,0,0,2023-03-28
+2021,8,16,17,Wilson Blvd,Sideswipe,Injury,Dark - Lighted,Snow/Ice,30,0,0,2021-08-16
+2020,9,17,15,Arlington Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Clear,30,1,0,2020-09-17
+2019,7,19,18,N Pershing Dr,Rear-End,Property Damage Only,Dark - Unlighted,Clear,30,0,0,2019-07-19
+2019,5,7,8,S Walter Reed Dr,Sideswipe,Property Damage Only,Daylight,Rain,45,0,0,2019-05-07
+2019,2,13,4,Arlington Blvd,Bicycle Involved,Injury,Dark - Unlighted,Clear,25,0,1,2019-02-13
+2019,5,28,0,N Fairfax Dr,Angle,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2019-05-28
+2021,8,28,8,S Walter Reed Dr,Pedestrian Involved,Injury,Daylight,Clear,30,1,0,2021-08-28
+2020,9,15,19,N Pershing Dr,Bicycle Involved,Property Damage Only,Daylight,Clear,25,0,1,2020-09-15
+2020,9,10,17,Clarendon Blvd,Head-On,Property Damage Only,Dawn/Dusk,Clear,30,0,0,2020-09-10
+2019,6,22,10,Clarendon Blvd,Sideswipe,Property Damage Only,Dark - Unlighted,Snow/Ice,30,0,0,2019-06-22
+2023,5,26,9,Wilson Blvd,Bicycle Involved,Injury,Dark - Unlighted,Fog,45,0,1,2023-05-26
+2019,9,9,12,Glebe Rd,Angle,Serious Injury,Dark - Unlighted,Clear,45,0,0,2019-09-09
+2020,2,24,22,N Fairfax Dr,Pedestrian Involved,Property Damage Only,Dark - Lighted,Rain,45,1,0,2020-02-24
+2020,10,5,13,N Fairfax Dr,Sideswipe,Property Damage Only,Dark - Unlighted,Rain,45,0,0,2020-10-05
+2023,3,7,17,Lee Hwy,Pedestrian Involved,Property Damage Only,Dark - Lighted,Clear,30,1,0,2023-03-07
+2021,12,23,17,N Pershing Dr,Angle,Injury,Dawn/Dusk,Cloudy,30,0,0,2021-12-23
+2023,3,11,18,Columbia Pike,Pedestrian Involved,Serious Injury,Daylight,Rain,30,1,0,2023-03-11
+2021,3,24,8,Wilson Blvd,Single Vehicle,Property Damage Only,Dark - Unlighted,Snow/Ice,45,0,0,2021-03-24
+2022,5,15,16,Arlington Blvd,Angle,Property Damage Only,Dark - Lighted,Clear,25,0,0,2022-05-15
+2020,3,1,22,S Walter Reed Dr,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Clear,30,1,0,2020-03-01
+2023,4,8,12,Wilson Blvd,Sideswipe,Property Damage Only,Daylight,Clear,45,0,0,2023-04-08
+2020,9,28,10,S Walter Reed Dr,Head-On,Property Damage Only,Dark - Unlighted,Snow/Ice,30,0,0,2020-09-28
+2022,8,16,11,Lee Hwy,Angle,Injury,Dark - Lighted,Fog,30,0,0,2022-08-16
+2019,7,25,7,Wilson Blvd,Sideswipe,Injury,Dawn/Dusk,Clear,30,0,0,2019-07-25
+2020,4,3,20,Lee Hwy,Head-On,Property Damage Only,Dawn/Dusk,Rain,35,0,0,2020-04-03
+2022,4,14,16,N Fairfax Dr,Single Vehicle,Property Damage Only,Daylight,Clear,45,0,0,2022-04-14
+2021,7,20,17,S Walter Reed Dr,Pedestrian Involved,Injury,Daylight,Clear,25,1,0,2021-07-20
+2022,8,27,16,Wilson Blvd,Angle,Property Damage Only,Dawn/Dusk,Rain,25,0,0,2022-08-27
+2023,7,17,7,Wilson Blvd,Angle,Injury,Dark - Unlighted,Clear,45,0,0,2023-07-17
+2022,5,25,10,Arlington Blvd,Head-On,Property Damage Only,Dark - Lighted,Clear,45,0,0,2022-05-25
+2021,10,2,14,N Pershing Dr,Angle,Property Damage Only,Dawn/Dusk,Snow/Ice,45,0,0,2021-10-02
+2019,12,17,0,Columbia Pike,Angle,Property Damage Only,Dark - Lighted,Clear,45,0,0,2019-12-17
+2022,6,15,1,Wilson Blvd,Angle,Property Damage Only,Dawn/Dusk,Clear,30,0,0,2022-06-15
+2022,2,9,13,Clarendon Blvd,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,25,0,1,2022-02-09
+2019,2,23,16,Washington Blvd,Bicycle Involved,Property Damage Only,Dark - Unlighted,Clear,25,0,1,2019-02-23
+2023,12,13,22,N Pershing Dr,Pedestrian Involved,Property Damage Only,Dark - Lighted,Rain,45,1,0,2023-12-13
+2023,7,2,9,Lee Hwy,Sideswipe,Injury,Dark - Lighted,Snow/Ice,30,0,0,2023-07-02
+2020,3,25,14,Wilson Blvd,Head-On,Fatal,Dark - Unlighted,Clear,35,0,0,2020-03-25
+2022,5,21,0,Lee Hwy,Rear-End,Injury,Dark - Lighted,Snow/Ice,30,0,0,2022-05-21
+2019,10,25,6,Arlington Blvd,Rear-End,Property Damage Only,Dawn/Dusk,Clear,45,0,0,2019-10-25
+2022,9,26,8,Wilson Blvd,Pedestrian Involved,Injury,Dawn/Dusk,Clear,30,1,0,2022-09-26
+2020,10,22,9,Washington Blvd,Head-On,Property Damage Only,Dawn/Dusk,Clear,45,0,0,2020-10-22
+2019,10,20,8,Wilson Blvd,Angle,Injury,Dark - Unlighted,Cloudy,30,0,0,2019-10-20
+2019,3,5,19,Wilson Blvd,Bicycle Involved,Property Damage Only,Dark - Unlighted,Fog,25,0,1,2019-03-05
+2020,1,22,18,S Walter Reed Dr,Single Vehicle,Injury,Dark - Unlighted,Clear,35,0,0,2020-01-22
+2019,1,4,11,N Fairfax Dr,Angle,Property Damage Only,Dark - Lighted,Clear,35,0,0,2019-01-04
+2023,11,23,7,S Walter Reed Dr,Pedestrian Involved,Property Damage Only,Dark - Lighted,Clear,45,1,0,2023-11-23
+2023,6,2,18,Columbia Pike,Single Vehicle,Property Damage Only,Dark - Unlighted,Clear,35,0,0,2023-06-02
+2021,7,27,22,Columbia Pike,Single Vehicle,Serious Injury,Dawn/Dusk,Snow/Ice,25,0,0,2021-07-27
+2021,8,5,23,Columbia Pike,Bicycle Involved,Property Damage Only,Dark - Unlighted,Cloudy,35,0,1,2021-08-05
+2023,7,17,5,Glebe Rd,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,25,0,1,2023-07-17
+2019,10,24,7,N Pershing Dr,Rear-End,Property Damage Only,Dawn/Dusk,Rain,35,0,0,2019-10-24
+2022,10,28,18,Clarendon Blvd,Sideswipe,Property Damage Only,Dark - Unlighted,Clear,30,0,0,2022-10-28
+2023,10,16,18,N Pershing Dr,Bicycle Involved,Injury,Dawn/Dusk,Clear,45,0,1,2023-10-16
+2020,10,8,17,Arlington Blvd,Angle,Property Damage Only,Daylight,Clear,25,0,0,2020-10-08
+2019,8,21,20,Columbia Pike,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,45,0,1,2019-08-21
+2022,1,11,20,Clarendon Blvd,Pedestrian Involved,Injury,Dark - Lighted,Clear,25,1,0,2022-01-11
+2020,12,10,7,Arlington Blvd,Single Vehicle,Property Damage Only,Daylight,Rain,35,0,0,2020-12-10
+2021,9,18,12,Clarendon Blvd,Single Vehicle,Property Damage Only,Daylight,Cloudy,25,0,0,2021-09-18
+2021,6,13,14,S Walter Reed Dr,Pedestrian Involved,Property Damage Only,Daylight,Clear,30,1,0,2021-06-13
+2020,6,27,17,Clarendon Blvd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,45,0,1,2020-06-27
+2019,11,5,18,Washington Blvd,Angle,Property Damage Only,Dawn/Dusk,Clear,35,0,0,2019-11-05
+2022,7,24,12,Wilson Blvd,Single Vehicle,Property Damage Only,Dark - Unlighted,Clear,35,0,0,2022-07-24
+2023,9,1,12,Glebe Rd,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Clear,35,1,0,2023-09-01
+2019,3,9,19,Wilson Blvd,Sideswipe,Fatal,Dawn/Dusk,Snow/Ice,30,0,0,2019-03-09
+2023,10,13,19,Lee Hwy,Pedestrian Involved,Property Damage Only,Daylight,Cloudy,35,1,0,2023-10-13
+2021,12,2,7,Arlington Blvd,Head-On,Serious Injury,Daylight,Cloudy,45,0,0,2021-12-02
+2020,6,15,17,Arlington Blvd,Angle,Fatal,Dark - Unlighted,Rain,30,0,0,2020-06-15
+2019,6,26,8,Wilson Blvd,Single Vehicle,Property Damage Only,Dark - Lighted,Rain,25,0,0,2019-06-26
+2022,9,1,5,Washington Blvd,Pedestrian Involved,Injury,Dark - Lighted,Cloudy,30,1,0,2022-09-01
+2021,8,24,7,N Pershing Dr,Sideswipe,Injury,Dark - Unlighted,Cloudy,30,0,0,2021-08-24
+2019,9,22,21,Lee Hwy,Angle,Serious Injury,Daylight,Clear,45,0,0,2019-09-22
+2022,12,28,22,N Pershing Dr,Rear-End,Injury,Daylight,Clear,35,0,0,2022-12-28
+2019,11,28,13,S Walter Reed Dr,Single Vehicle,Injury,Daylight,Clear,35,0,0,2019-11-28
+2022,1,4,16,N Pershing Dr,Single Vehicle,Injury,Dark - Unlighted,Clear,25,0,0,2022-01-04
+2023,5,21,15,Glebe Rd,Sideswipe,Injury,Dark - Lighted,Clear,30,0,0,2023-05-21
+2021,5,18,0,Clarendon Blvd,Single Vehicle,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2021-05-18
+2021,3,6,21,Arlington Blvd,Rear-End,Property Damage Only,Daylight,Rain,25,0,0,2021-03-06
+2020,9,12,7,N Pershing Dr,Sideswipe,Property Damage Only,Dark - Unlighted,Snow/Ice,30,0,0,2020-09-12
+2021,10,8,17,Lee Hwy,Rear-End,Property Damage Only,Dark - Unlighted,Clear,35,0,0,2021-10-08
+2023,8,2,1,Lee Hwy,Rear-End,Property Damage Only,Dawn/Dusk,Rain,25,0,0,2023-08-02
+2019,7,2,6,Columbia Pike,Head-On,Property Damage Only,Dawn/Dusk,Clear,30,0,0,2019-07-02
+2023,10,21,21,Washington Blvd,Pedestrian Involved,Fatal,Dark - Unlighted,Clear,35,1,0,2023-10-21
+2021,4,23,18,N Pershing Dr,Rear-End,Property Damage Only,Dawn/Dusk,Clear,30,0,0,2021-04-23
+2019,12,15,18,Columbia Pike,Head-On,Serious Injury,Dark - Unlighted,Cloudy,45,0,0,2019-12-15
+2022,4,8,15,Lee Hwy,Single Vehicle,Property Damage Only,Dark - Unlighted,Snow/Ice,35,0,0,2022-04-08
+2022,3,23,8,Clarendon Blvd,Single Vehicle,Property Damage Only,Dark - Unlighted,Clear,45,0,0,2022-03-23
+2022,1,3,17,Washington Blvd,Rear-End,Property Damage Only,Dark - Unlighted,Clear,45,0,0,2022-01-03
+2022,3,10,21,Clarendon Blvd,Pedestrian Involved,Property Damage Only,Dark - Lighted,Clear,25,1,0,2022-03-10
+2022,12,26,7,Columbia Pike,Sideswipe,Property Damage Only,Daylight,Clear,35,0,0,2022-12-26
+2023,8,13,7,S Walter Reed Dr,Head-On,Injury,Dark - Lighted,Clear,30,0,0,2023-08-13
+2023,3,16,21,N Fairfax Dr,Rear-End,Property Damage Only,Dark - Unlighted,Clear,30,0,0,2023-03-16
+2023,7,26,15,N Fairfax Dr,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Snow/Ice,30,1,0,2023-07-26
+2020,11,22,8,Columbia Pike,Bicycle Involved,Property Damage Only,Dawn/Dusk,Fog,25,0,1,2020-11-22
+2023,10,15,21,Clarendon Blvd,Pedestrian Involved,Injury,Daylight,Clear,45,1,0,2023-10-15
+2020,5,13,18,Columbia Pike,Pedestrian Involved,Property Damage Only,Daylight,Clear,45,1,0,2020-05-13
+2021,8,21,7,Wilson Blvd,Rear-End,Property Damage Only,Dark - Lighted,Clear,30,0,0,2021-08-21
+2023,11,26,9,Wilson Blvd,Single Vehicle,Injury,Dark - Lighted,Clear,30,0,0,2023-11-26
+2022,9,10,5,N Fairfax Dr,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Cloudy,30,1,0,2022-09-10
+2020,11,11,13,Arlington Blvd,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Snow/Ice,45,1,0,2020-11-11
+2021,2,19,19,Wilson Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Rain,30,1,0,2021-02-19
+2021,1,12,18,N Pershing Dr,Rear-End,Injury,Daylight,Clear,35,0,0,2021-01-12
+2019,5,28,19,Wilson Blvd,Angle,Property Damage Only,Dawn/Dusk,Clear,45,0,0,2019-05-28
+2021,12,13,11,N Fairfax Dr,Head-On,Property Damage Only,Dawn/Dusk,Clear,30,0,0,2021-12-13
+2020,8,5,18,Glebe Rd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Clear,35,1,0,2020-08-05
+2022,3,10,14,Lee Hwy,Angle,Property Damage Only,Daylight,Cloudy,25,0,0,2022-03-10
+2019,3,24,7,Washington Blvd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,30,0,1,2019-03-24
+2019,3,21,7,N Fairfax Dr,Single Vehicle,Property Damage Only,Dawn/Dusk,Rain,45,0,0,2019-03-21
+2023,3,15,22,N Pershing Dr,Head-On,Property Damage Only,Dawn/Dusk,Rain,45,0,0,2023-03-15
+2021,4,6,18,N Fairfax Dr,Pedestrian Involved,Injury,Daylight,Clear,45,1,0,2021-04-06
+2020,12,17,8,Arlington Blvd,Head-On,Property Damage Only,Dark - Unlighted,Rain,25,0,0,2020-12-17
+2019,10,16,18,Clarendon Blvd,Rear-End,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2019-10-16
+2020,12,24,20,N Pershing Dr,Single Vehicle,Injury,Dark - Unlighted,Cloudy,45,0,0,2020-12-24
+2023,2,17,18,S Walter Reed Dr,Rear-End,Property Damage Only,Dark - Lighted,Rain,45,0,0,2023-02-17
+2019,11,21,17,N Pershing Dr,Single Vehicle,Property Damage Only,Dark - Unlighted,Clear,25,0,0,2019-11-21
+2021,9,25,17,Wilson Blvd,Head-On,Property Damage Only,Dawn/Dusk,Snow/Ice,45,0,0,2021-09-25
+2023,12,11,15,N Fairfax Dr,Sideswipe,Serious Injury,Dark - Unlighted,Clear,35,0,0,2023-12-11
+2020,1,23,8,S Walter Reed Dr,Bicycle Involved,Property Damage Only,Dark - Unlighted,Clear,35,0,1,2020-01-23
+2019,11,16,17,S Walter Reed Dr,Angle,Injury,Daylight,Clear,35,0,0,2019-11-16
+2023,1,10,14,Washington Blvd,Rear-End,Property Damage Only,Dark - Lighted,Clear,25,0,0,2023-01-10
+2021,5,5,21,S Walter Reed Dr,Sideswipe,Injury,Dark - Unlighted,Rain,35,0,0,2021-05-05
+2019,12,4,17,S Walter Reed Dr,Angle,Property Damage Only,Dark - Lighted,Cloudy,45,0,0,2019-12-04
+2021,3,9,17,Glebe Rd,Head-On,Injury,Dark - Lighted,Fog,25,0,0,2021-03-09
+2021,2,5,8,S Walter Reed Dr,Single Vehicle,Injury,Dark - Lighted,Clear,45,0,0,2021-02-05
+2022,7,8,9,Washington Blvd,Bicycle Involved,Property Damage Only,Dark - Lighted,Cloudy,30,0,1,2022-07-08
+2023,12,27,19,Clarendon Blvd,Rear-End,Injury,Dark - Unlighted,Rain,25,0,0,2023-12-27
+2019,3,15,15,N Fairfax Dr,Head-On,Serious Injury,Dark - Unlighted,Clear,45,0,0,2019-03-15
+2023,4,13,10,N Fairfax Dr,Head-On,Property Damage Only,Dark - Unlighted,Snow/Ice,30,0,0,2023-04-13
+2023,7,1,17,Arlington Blvd,Single Vehicle,Property Damage Only,Dawn/Dusk,Clear,45,0,0,2023-07-01
+2021,9,22,19,Wilson Blvd,Rear-End,Property Damage Only,Dark - Unlighted,Rain,45,0,0,2021-09-22
+2023,11,28,22,Arlington Blvd,Sideswipe,Property Damage Only,Dark - Unlighted,Clear,35,0,0,2023-11-28
+2019,5,21,17,S Walter Reed Dr,Head-On,Injury,Dawn/Dusk,Clear,30,0,0,2019-05-21
+2023,4,17,22,Clarendon Blvd,Bicycle Involved,Property Damage Only,Dark - Lighted,Clear,35,0,1,2023-04-17
+2023,1,22,17,Wilson Blvd,Single Vehicle,Injury,Daylight,Clear,25,0,0,2023-01-22
+2022,2,17,18,Columbia Pike,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,35,0,1,2022-02-17
+2020,12,10,6,Arlington Blvd,Angle,Injury,Daylight,Clear,25,0,0,2020-12-10
+2023,2,2,8,S Walter Reed Dr,Bicycle Involved,Property Damage Only,Dark - Lighted,Fog,25,0,1,2023-02-02
+2019,2,28,17,S Walter Reed Dr,Angle,Injury,Dawn/Dusk,Clear,30,0,0,2019-02-28
+2019,12,6,16,Arlington Blvd,Sideswipe,Property Damage Only,Dawn/Dusk,Snow/Ice,25,0,0,2019-12-06
+2022,5,25,20,N Fairfax Dr,Bicycle Involved,Property Damage Only,Dark - Unlighted,Rain,35,0,1,2022-05-25
+2020,2,9,4,Wilson Blvd,Head-On,Property Damage Only,Dawn/Dusk,Clear,35,0,0,2020-02-09
+2019,5,27,8,Arlington Blvd,Angle,Property Damage Only,Dawn/Dusk,Rain,25,0,0,2019-05-27
+2022,4,20,9,N Fairfax Dr,Angle,Injury,Dawn/Dusk,Clear,25,0,0,2022-04-20
+2020,9,25,5,N Fairfax Dr,Angle,Injury,Daylight,Clear,45,0,0,2020-09-25
+2021,2,2,12,Columbia Pike,Rear-End,Injury,Dark - Unlighted,Clear,45,0,0,2021-02-02
+2019,8,5,5,Wilson Blvd,Rear-End,Property Damage Only,Dawn/Dusk,Cloudy,35,0,0,2019-08-05
+2020,12,11,16,N Fairfax Dr,Pedestrian Involved,Injury,Daylight,Rain,45,1,0,2020-12-11
+2022,7,13,7,Columbia Pike,Pedestrian Involved,Property Damage Only,Dark - Lighted,Snow/Ice,25,1,0,2022-07-13
+2022,12,27,6,Washington Blvd,Rear-End,Property Damage Only,Dark - Unlighted,Clear,35,0,0,2022-12-27
+2021,7,2,12,Columbia Pike,Sideswipe,Fatal,Dark - Unlighted,Clear,25,0,0,2021-07-02
+2022,5,21,14,Glebe Rd,Angle,Property Damage Only,Daylight,Cloudy,45,0,0,2022-05-21
+2020,5,23,6,N Fairfax Dr,Rear-End,Property Damage Only,Dark - Unlighted,Rain,45,0,0,2020-05-23
+2019,11,15,17,Glebe Rd,Angle,Property Damage Only,Daylight,Clear,30,0,0,2019-11-15
+2019,12,19,11,Glebe Rd,Head-On,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2019-12-19
+2023,11,10,13,Washington Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Clear,25,1,0,2023-11-10
+2019,6,2,17,Clarendon Blvd,Single Vehicle,Serious Injury,Daylight,Rain,45,0,0,2019-06-02
+2019,4,26,5,N Pershing Dr,Head-On,Property Damage Only,Dark - Lighted,Cloudy,30,0,0,2019-04-26
+2019,1,24,8,Lee Hwy,Head-On,Property Damage Only,Daylight,Rain,45,0,0,2019-01-24
+2023,1,8,16,Lee Hwy,Rear-End,Injury,Dark - Lighted,Clear,25,0,0,2023-01-08
+2021,2,15,0,S Walter Reed Dr,Angle,Serious Injury,Daylight,Clear,25,0,0,2021-02-15
+2019,8,20,17,S Walter Reed Dr,Angle,Injury,Daylight,Rain,30,0,0,2019-08-20
+2022,6,26,9,N Fairfax Dr,Sideswipe,Property Damage Only,Daylight,Rain,30,0,0,2022-06-26
+2021,4,25,19,Wilson Blvd,Pedestrian Involved,Serious Injury,Dark - Lighted,Clear,35,1,0,2021-04-25
+2019,2,9,7,Lee Hwy,Single Vehicle,Serious Injury,Dawn/Dusk,Rain,30,0,0,2019-02-09
+2021,9,6,20,Washington Blvd,Angle,Property Damage Only,Daylight,Rain,30,0,0,2021-09-06
+2019,11,20,17,N Fairfax Dr,Single Vehicle,Injury,Dark - Lighted,Clear,25,0,0,2019-11-20
+2022,2,1,0,Wilson Blvd,Angle,Property Damage Only,Daylight,Clear,35,0,0,2022-02-01
+2022,12,26,12,Washington Blvd,Bicycle Involved,Serious Injury,Dark - Lighted,Clear,30,0,1,2022-12-26
+2020,11,9,19,N Pershing Dr,Head-On,Property Damage Only,Dawn/Dusk,Rain,30,0,0,2020-11-09
+2020,10,23,22,Wilson Blvd,Pedestrian Involved,Property Damage Only,Dark - Lighted,Clear,45,1,0,2020-10-23
+2023,2,21,12,Arlington Blvd,Sideswipe,Property Damage Only,Dawn/Dusk,Rain,25,0,0,2023-02-21
+2023,4,7,20,Columbia Pike,Pedestrian Involved,Property Damage Only,Daylight,Clear,35,1,0,2023-04-07
+2023,9,8,12,Washington Blvd,Single Vehicle,Injury,Dark - Lighted,Clear,35,0,0,2023-09-08
+2019,4,4,15,Lee Hwy,Bicycle Involved,Property Damage Only,Dawn/Dusk,Rain,45,0,1,2019-04-04
+2020,3,22,8,Wilson Blvd,Rear-End,Injury,Dark - Unlighted,Clear,35,0,0,2020-03-22
+2020,7,9,7,Clarendon Blvd,Pedestrian Involved,Injury,Dawn/Dusk,Rain,25,1,0,2020-07-09
+2019,12,2,0,N Pershing Dr,Angle,Property Damage Only,Dark - Lighted,Clear,25,0,0,2019-12-02
+2022,9,4,8,Columbia Pike,Angle,Property Damage Only,Dawn/Dusk,Clear,35,0,0,2022-09-04
+2022,4,24,12,Clarendon Blvd,Angle,Injury,Daylight,Rain,35,0,0,2022-04-24
+2020,2,8,17,N Fairfax Dr,Single Vehicle,Property Damage Only,Dark - Lighted,Cloudy,45,0,0,2020-02-08
+2020,2,16,19,S Walter Reed Dr,Head-On,Injury,Daylight,Snow/Ice,45,0,0,2020-02-16
+2020,4,20,21,Washington Blvd,Angle,Property Damage Only,Dawn/Dusk,Clear,35,0,0,2020-04-20
+2020,8,24,16,Glebe Rd,Bicycle Involved,Injury,Dark - Unlighted,Rain,35,0,1,2020-08-24
+2020,6,5,14,Wilson Blvd,Bicycle Involved,Property Damage Only,Daylight,Clear,35,0,1,2020-06-05
+2020,2,28,21,Washington Blvd,Head-On,Property Damage Only,Dawn/Dusk,Clear,30,0,0,2020-02-28
+2021,4,10,8,S Walter Reed Dr,Angle,Property Damage Only,Dark - Lighted,Fog,30,0,0,2021-04-10
+2019,7,28,17,N Pershing Dr,Head-On,Injury,Dark - Lighted,Clear,45,0,0,2019-07-28
+2022,5,1,16,N Fairfax Dr,Bicycle Involved,Property Damage Only,Dark - Lighted,Rain,30,0,1,2022-05-01
+2021,7,19,11,Glebe Rd,Pedestrian Involved,Property Damage Only,Dark - Lighted,Rain,25,1,0,2021-07-19
+2022,1,2,21,Washington Blvd,Bicycle Involved,Property Damage Only,Daylight,Snow/Ice,45,0,1,2022-01-02
+2023,7,16,8,Columbia Pike,Head-On,Property Damage Only,Dawn/Dusk,Clear,30,0,0,2023-07-16
+2019,9,25,8,Wilson Blvd,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,30,0,1,2019-09-25
+2020,6,10,13,Glebe Rd,Bicycle Involved,Serious Injury,Daylight,Clear,25,0,1,2020-06-10
+2022,11,10,18,Lee Hwy,Bicycle Involved,Property Damage Only,Dawn/Dusk,Rain,25,0,1,2022-11-10
+2022,8,25,8,Lee Hwy,Single Vehicle,Property Damage Only,Dawn/Dusk,Clear,30,0,0,2022-08-25
+2021,11,15,5,Wilson Blvd,Single Vehicle,Property Damage Only,Daylight,Rain,45,0,0,2021-11-15
+2021,9,2,20,Arlington Blvd,Head-On,Injury,Dark - Unlighted,Rain,30,0,0,2021-09-02
+2019,10,11,6,Wilson Blvd,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Clear,25,1,0,2019-10-11
+2019,7,12,8,Washington Blvd,Pedestrian Involved,Property Damage Only,Daylight,Clear,35,1,0,2019-07-12
+2021,3,21,10,N Pershing Dr,Bicycle Involved,Property Damage Only,Daylight,Snow/Ice,30,0,1,2021-03-21
+2020,6,8,18,N Pershing Dr,Rear-End,Property Damage Only,Dawn/Dusk,Cloudy,30,0,0,2020-06-08
+2020,6,12,22,Arlington Blvd,Pedestrian Involved,Property Damage Only,Dawn/Dusk,Clear,35,1,0,2020-06-12
+2019,2,12,13,Clarendon Blvd,Head-On,Serious Injury,Dawn/Dusk,Fog,25,0,0,2019-02-12
+2022,12,18,6,N Pershing Dr,Sideswipe,Property Damage Only,Dawn/Dusk,Rain,35,0,0,2022-12-18
+2019,4,15,13,Columbia Pike,Rear-End,Property Damage Only,Dawn/Dusk,Fog,30,0,0,2019-04-15
+2021,2,4,17,Lee Hwy,Sideswipe,Injury,Daylight,Fog,30,0,0,2021-02-04
+2022,3,28,18,Glebe Rd,Pedestrian Involved,Property Damage Only,Daylight,Rain,35,1,0,2022-03-28
+2022,11,18,7,Lee Hwy,Head-On,Injury,Dark - Unlighted,Clear,45,0,0,2022-11-18
+2022,12,21,17,Wilson Blvd,Sideswipe,Property Damage Only,Dark - Lighted,Clear,25,0,0,2022-12-21
+2019,4,27,7,N Pershing Dr,Bicycle Involved,Property Damage Only,Dark - Unlighted,Rain,45,0,1,2019-04-27
+2023,6,21,17,Clarendon Blvd,Head-On,Property Damage Only,Dawn/Dusk,Clear,45,0,0,2023-06-21
+2021,10,5,5,Arlington Blvd,Angle,Property Damage Only,Dark - Unlighted,Clear,30,0,0,2021-10-05
+2022,6,10,20,Wilson Blvd,Angle,Property Damage Only,Dark - Unlighted,Clear,35,0,0,2022-06-10
+2022,3,20,6,Lee Hwy,Bicycle Involved,Property Damage Only,Dark - Unlighted,Clear,30,0,1,2022-03-20
+2020,12,23,16,Lee Hwy,Angle,Property Damage Only,Dark - Lighted,Clear,25,0,0,2020-12-23
+2019,6,19,10,Lee Hwy,Head-On,Property Damage Only,Dark - Unlighted,Clear,35,0,0,2019-06-19
+2020,4,18,22,Wilson Blvd,Bicycle Involved,Property Damage Only,Dark - Unlighted,Rain,35,0,1,2020-04-18
+2020,6,15,11,N Pershing Dr,Angle,Property Damage Only,Dark - Unlighted,Clear,25,0,0,2020-06-15
+2019,7,16,17,Lee Hwy,Head-On,Injury,Dark - Unlighted,Clear,30,0,0,2019-07-16
+2019,12,18,13,N Pershing Dr,Sideswipe,Property Damage Only,Dark - Unlighted,Fog,45,0,0,2019-12-18
+2021,10,22,16,Lee Hwy,Single Vehicle,Property Damage Only,Dawn/Dusk,Clear,35,0,0,2021-10-22
+2019,12,16,16,Wilson Blvd,Angle,Property Damage Only,Daylight,Clear,35,0,0,2019-12-16
+2019,7,20,7,Glebe Rd,Head-On,Injury,Dark - Unlighted,Clear,25,0,0,2019-07-20
+2021,1,20,10,Glebe Rd,Pedestrian Involved,Injury,Dark - Lighted,Clear,35,1,0,2021-01-20
+2020,1,3,13,N Pershing Dr,Single Vehicle,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2020-01-03
+2023,7,7,18,Washington Blvd,Sideswipe,Property Damage Only,Daylight,Clear,35,0,0,2023-07-07
+2022,3,23,15,N Fairfax Dr,Sideswipe,Injury,Dawn/Dusk,Rain,35,0,0,2022-03-23
+2019,5,12,8,Clarendon Blvd,Sideswipe,Property Damage Only,Dawn/Dusk,Rain,25,0,0,2019-05-12
+2020,12,15,14,N Fairfax Dr,Single Vehicle,Injury,Dawn/Dusk,Snow/Ice,35,0,0,2020-12-15
+2020,12,14,19,N Fairfax Dr,Angle,Property Damage Only,Daylight,Clear,30,0,0,2020-12-14
+2020,5,16,18,N Pershing Dr,Sideswipe,Property Damage Only,Daylight,Clear,45,0,0,2020-05-16
+2019,1,14,19,Arlington Blvd,Head-On,Injury,Dark - Lighted,Clear,45,0,0,2019-01-14
+2023,3,7,5,Lee Hwy,Single Vehicle,Property Damage Only,Dawn/Dusk,Snow/Ice,35,0,0,2023-03-07
+2023,8,2,20,Arlington Blvd,Single Vehicle,Property Damage Only,Dark - Unlighted,Clear,45,0,0,2023-08-02
+2023,12,15,19,Glebe Rd,Rear-End,Property Damage Only,Daylight,Clear,30,0,0,2023-12-15
+2021,5,21,22,Washington Blvd,Rear-End,Property Damage Only,Dark - Unlighted,Rain,45,0,0,2021-05-21
+2020,8,23,5,Glebe Rd,Rear-End,Property Damage Only,Daylight,Snow/Ice,35,0,0,2020-08-23
+2022,2,20,12,Clarendon Blvd,Pedestrian Involved,Fatal,Dawn/Dusk,Rain,45,1,0,2022-02-20
+2021,11,22,9,Washington Blvd,Bicycle Involved,Property Damage Only,Daylight,Clear,35,0,1,2021-11-22
+2023,12,19,10,Wilson Blvd,Single Vehicle,Property Damage Only,Dark - Unlighted,Clear,30,0,0,2023-12-19
+2023,1,5,12,Clarendon Blvd,Head-On,Injury,Dark - Lighted,Rain,35,0,0,2023-01-05
+2020,1,9,17,Clarendon Blvd,Head-On,Property Damage Only,Dark - Unlighted,Clear,25,0,0,2020-01-09
+2021,5,17,17,Columbia Pike,Pedestrian Involved,Property Damage Only,Dark - Lighted,Clear,30,1,0,2021-05-17
+2019,10,25,18,Lee Hwy,Pedestrian Involved,Injury,Dark - Unlighted,Clear,35,1,0,2019-10-25
+2021,5,22,5,Clarendon Blvd,Rear-End,Injury,Dark - Unlighted,Rain,30,0,0,2021-05-22
+2019,3,17,18,Arlington Blvd,Sideswipe,Injury,Dawn/Dusk,Snow/Ice,45,0,0,2019-03-17
+2021,3,4,14,Glebe Rd,Angle,Property Damage Only,Dark - Lighted,Rain,30,0,0,2021-03-04
+2023,10,23,16,N Pershing Dr,Single Vehicle,Injury,Daylight,Clear,45,0,0,2023-10-23
+2022,2,4,7,Lee Hwy,Rear-End,Injury,Dawn/Dusk,Rain,35,0,0,2022-02-04
+2021,12,12,20,Lee Hwy,Single Vehicle,Injury,Dawn/Dusk,Rain,35,0,0,2021-12-12
+2020,12,10,17,Wilson Blvd,Bicycle Involved,Injury,Daylight,Rain,30,0,1,2020-12-10
+2020,12,5,16,Glebe Rd,Sideswipe,Property Damage Only,Dark - Lighted,Clear,30,0,0,2020-12-05
+2020,2,14,17,Columbia Pike,Rear-End,Property Damage Only,Daylight,Clear,45,0,0,2020-02-14
+2022,1,7,9,Columbia Pike,Rear-End,Property Damage Only,Daylight,Clear,45,0,0,2022-01-07
+2019,5,2,11,Columbia Pike,Sideswipe,Serious Injury,Daylight,Clear,25,0,0,2019-05-02
+2019,10,7,7,S Walter Reed Dr,Angle,Property Damage Only,Dark - Lighted,Rain,35,0,0,2019-10-07
+2019,2,5,10,Arlington Blvd,Pedestrian Involved,Injury,Dark - Unlighted,Rain,35,1,0,2019-02-05
+2020,9,25,18,S Walter Reed Dr,Angle,Property Damage Only,Daylight,Rain,25,0,0,2020-09-25
+2023,1,17,8,Glebe Rd,Bicycle Involved,Serious Injury,Dark - Lighted,Rain,35,0,1,2023-01-17
+2020,9,1,9,Columbia Pike,Angle,Property Damage Only,Dawn/Dusk,Clear,35,0,0,2020-09-01
+2023,3,15,17,Columbia Pike,Angle,Property Damage Only,Dark - Unlighted,Rain,45,0,0,2023-03-15
+2022,4,17,8,Glebe Rd,Head-On,Injury,Daylight,Snow/Ice,35,0,0,2022-04-17
+2019,8,4,18,N Pershing Dr,Angle,Injury,Dawn/Dusk,Clear,35,0,0,2019-08-04
+2021,9,24,6,Wilson Blvd,Rear-End,Injury,Dark - Unlighted,Clear,45,0,0,2021-09-24
+2019,7,10,12,Washington Blvd,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Clear,45,1,0,2019-07-10
+2020,9,14,2,Arlington Blvd,Single Vehicle,Injury,Dawn/Dusk,Clear,30,0,0,2020-09-14
+2019,8,22,15,Clarendon Blvd,Angle,Property Damage Only,Daylight,Rain,45,0,0,2019-08-22
+2019,7,15,9,N Pershing Dr,Bicycle Involved,Injury,Daylight,Fog,25,0,1,2019-07-15
+2020,7,13,9,S Walter Reed Dr,Rear-End,Serious Injury,Dark - Lighted,Cloudy,25,0,0,2020-07-13
+2021,4,11,19,Glebe Rd,Pedestrian Involved,Injury,Dawn/Dusk,Clear,25,1,0,2021-04-11
+2020,7,24,15,Washington Blvd,Sideswipe,Property Damage Only,Dark - Unlighted,Clear,45,0,0,2020-07-24
+2021,8,22,23,S Walter Reed Dr,Head-On,Property Damage Only,Dawn/Dusk,Rain,35,0,0,2021-08-22
+2020,8,4,18,Columbia Pike,Sideswipe,Injury,Dawn/Dusk,Cloudy,45,0,0,2020-08-04
+2020,11,5,8,Wilson Blvd,Rear-End,Property Damage Only,Daylight,Clear,25,0,0,2020-11-05
+2022,11,1,6,Lee Hwy,Head-On,Property Damage Only,Dark - Unlighted,Clear,30,0,0,2022-11-01
+2021,10,20,18,Columbia Pike,Single Vehicle,Property Damage Only,Daylight,Clear,45,0,0,2021-10-20
+2022,4,10,17,Washington Blvd,Head-On,Property Damage Only,Dark - Unlighted,Clear,35,0,0,2022-04-10
+2023,9,1,18,Wilson Blvd,Head-On,Injury,Daylight,Snow/Ice,45,0,0,2023-09-01
+2022,6,28,3,N Fairfax Dr,Head-On,Injury,Dawn/Dusk,Rain,25,0,0,2022-06-28
+2019,3,18,15,Arlington Blvd,Bicycle Involved,Injury,Dark - Lighted,Fog,45,0,1,2019-03-18
+2022,3,10,15,N Fairfax Dr,Head-On,Property Damage Only,Daylight,Cloudy,45,0,0,2022-03-10
+2023,11,18,18,S Walter Reed Dr,Head-On,Property Damage Only,Dawn/Dusk,Rain,30,0,0,2023-11-18
+2023,1,13,10,Arlington Blvd,Head-On,Property Damage Only,Dawn/Dusk,Rain,35,0,0,2023-01-13
+2021,6,2,21,Wilson Blvd,Pedestrian Involved,Serious Injury,Daylight,Clear,30,1,0,2021-06-02
+2021,6,26,14,S Walter Reed Dr,Rear-End,Property Damage Only,Dark - Unlighted,Cloudy,45,0,0,2021-06-26
+2019,7,12,23,Clarendon Blvd,Head-On,Injury,Dark - Unlighted,Snow/Ice,25,0,0,2019-07-12
+2020,4,8,17,Arlington Blvd,Pedestrian Involved,Property Damage Only,Daylight,Clear,25,1,0,2020-04-08
+2021,2,11,12,Lee Hwy,Rear-End,Injury,Dark - Unlighted,Rain,25,0,0,2021-02-11
+2022,11,28,10,N Fairfax Dr,Pedestrian Involved,Serious Injury,Dawn/Dusk,Clear,35,1,0,2022-11-28
+2019,12,16,13,S Walter Reed Dr,Rear-End,Injury,Dark - Unlighted,Rain,45,0,0,2019-12-16
+2023,7,11,17,S Walter Reed Dr,Rear-End,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2023-07-11
+2020,6,16,16,N Pershing Dr,Single Vehicle,Property Damage Only,Dark - Unlighted,Clear,30,0,0,2020-06-16
+2023,5,12,17,N Fairfax Dr,Angle,Property Damage Only,Dawn/Dusk,Rain,25,0,0,2023-05-12
+2023,4,10,19,Arlington Blvd,Rear-End,Property Damage Only,Dark - Unlighted,Clear,45,0,0,2023-04-10
+2020,10,24,18,Columbia Pike,Bicycle Involved,Property Damage Only,Daylight,Rain,35,0,1,2020-10-24
+2021,2,19,19,N Pershing Dr,Head-On,Injury,Dawn/Dusk,Cloudy,30,0,0,2021-02-19
+2021,2,21,14,Arlington Blvd,Pedestrian Involved,Property Damage Only,Dark - Unlighted,Clear,45,1,0,2021-02-21
+2023,6,7,7,N Fairfax Dr,Head-On,Property Damage Only,Dark - Unlighted,Clear,45,0,0,2023-06-07
+2023,3,1,21,N Pershing Dr,Single Vehicle,Property Damage Only,Dark - Lighted,Rain,45,0,0,2023-03-01
+2020,11,27,9,Washington Blvd,Sideswipe,Property Damage Only,Dawn/Dusk,Clear,25,0,0,2020-11-27
+2023,4,12,11,Washington Blvd,Angle,Property Damage Only,Dark - Lighted,Rain,30,0,0,2023-04-12
+2021,7,14,20,Clarendon Blvd,Single Vehicle,Injury,Daylight,Rain,30,0,0,2021-07-14
+2022,5,27,7,Arlington Blvd,Bicycle Involved,Injury,Dark - Lighted,Fog,35,0,1,2022-05-27
+2023,4,13,7,Glebe Rd,Rear-End,Injury,Dark - Lighted,Clear,30,0,0,2023-04-13
+2019,4,26,18,Arlington Blvd,Head-On,Fatal,Dawn/Dusk,Clear,45,0,0,2019-04-26
+2022,11,2,20,Glebe Rd,Angle,Injury,Dark - Unlighted,Cloudy,30,0,0,2022-11-02
+2019,5,26,12,Arlington Blvd,Bicycle Involved,Injury,Dark - Lighted,Clear,25,0,1,2019-05-26
+2022,1,2,9,Columbia Pike,Sideswipe,Property Damage Only,Dark - Unlighted,Cloudy,25,0,0,2022-01-02
+2022,6,22,18,Columbia Pike,Head-On,Injury,Dark - Lighted,Cloudy,30,0,0,2022-06-22
+2019,10,24,5,N Pershing Dr,Rear-End,Property Damage Only,Dark - Unlighted,Clear,45,0,0,2019-10-24
+2019,4,20,7,Columbia Pike,Single Vehicle,Property Damage Only,Dark - Unlighted,Clear,35,0,0,2019-04-20
+2023,12,13,8,Glebe Rd,Head-On,Property Damage Only,Dark - Lighted,Clear,30,0,0,2023-12-13
+2019,3,7,7,Arlington Blvd,Head-On,Fatal,Dawn/Dusk,Snow/Ice,35,0,0,2019-03-07
+2023,1,16,22,N Pershing Dr,Sideswipe,Property Damage Only,Daylight,Clear,35,0,0,2023-01-16
+2023,7,16,18,Glebe Rd,Sideswipe,Property Damage Only,Dark - Lighted,Clear,35,0,0,2023-07-16
+2022,12,12,7,Arlington Blvd,Rear-End,Property Damage Only,Daylight,Clear,25,0,0,2022-12-12
+2020,5,18,9,N Fairfax Dr,Sideswipe,Injury,Dark - Unlighted,Clear,25,0,0,2020-05-18
+2023,4,28,7,Washington Blvd,Head-On,Injury,Daylight,Clear,45,0,0,2023-04-28
+2021,5,3,9,Glebe Rd,Sideswipe,Injury,Dark - Lighted,Clear,30,0,0,2021-05-03
+2022,11,11,5,N Fairfax Dr,Single Vehicle,Property Damage Only,Daylight,Clear,35,0,0,2022-11-11
+2019,8,16,15,N Fairfax Dr,Single Vehicle,Injury,Dark - Unlighted,Clear,45,0,0,2019-08-16
+2019,3,23,15,Arlington Blvd,Pedestrian Involved,Property Damage Only,Daylight,Clear,35,1,0,2019-03-23
+2022,10,24,16,N Pershing Dr,Bicycle Involved,Property Damage Only,Dark - Unlighted,Clear,45,0,1,2022-10-24
+2019,1,21,5,Lee Hwy,Bicycle Involved,Property Damage Only,Dawn/Dusk,Clear,30,0,1,2019-01-21
+2019,7,7,18,Arlington Blvd,Sideswipe,Property Damage Only,Daylight,Clear,25,0,0,2019-07-07
+2020,4,17,12,Lee Hwy,Single Vehicle,Injury,Dawn/Dusk,Rain,35,0,0,2020-04-17
+2022,8,28,17,Lee Hwy,Sideswipe,Injury,Dark - Lighted,Fog,35,0,0,2022-08-28
+2021,4,3,9,N Fairfax Dr,Sideswipe,Property Damage Only,Dark - Lighted,Snow/Ice,45,0,0,2021-04-03
+2022,10,8,23,Wilson Blvd,Rear-End,Injury,Dark - Lighted,Clear,25,0,0,2022-10-08
+2022,4,9,7,Lee Hwy,Rear-End,Property Damage Only,Dawn/Dusk,Rain,45,0,0,2022-04-09
+2023,5,5,13,Columbia Pike,Sideswipe,Property Damage Only,Dark - Lighted,Snow/Ice,25,0,0,2023-05-05
+2019,12,17,10,N Fairfax Dr,Single Vehicle,Injury,Dawn/Dusk,Clear,45,0,0,2019-12-17
+2019,4,23,9,Glebe Rd,Angle,Property Damage Only,Dark - Unlighted,Snow/Ice,35,0,0,2019-04-23
+2022,7,5,6,N Fairfax Dr,Single Vehicle,Property Damage Only,Dark - Lighted,Cloudy,30,0,0,2022-07-05
+2021,12,22,7,Glebe Rd,Head-On,Property Damage Only,Dark - Lighted,Rain,45,0,0,2021-12-22
+2020,1,10,13,Arlington Blvd,Angle,Injury,Dawn/Dusk,Clear,30,0,0,2020-01-10
+2021,10,22,15,Washington Blvd,Rear-End,Property Damage Only,Daylight,Rain,45,0,0,2021-10-22
