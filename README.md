@@ -1,3 +1,4 @@
+<img width="1634" height="1181" alt="arlington_crash_chart" src="https://github.com/user-attachments/assets/8f649869-b6df-40c8-b428-becf5ab25ee9" />
 # Arlington County Traffic Crash Analysis (2019–2023)
 
 Exploratory data analysis of traffic crash patterns in Arlington County, Virginia, with a focus on identifying high-risk locations, time-of-day trends, and vulnerable road user safety — in line with Arlington's Vision Zero goal of eliminating serious and fatal crashes by 2030.
@@ -13,6 +14,12 @@ This project analyzes crash data across Arlington County to surface actionable i
 - Pedestrian and cyclist involvement by location
 
 ## Key Findings
+
+
+
+
+
+<img width="1634" height="1181" alt="arlington_crash_chart" src="https://github.com/user-attachments/assets/29e7fdf7-4cdf-4887-8abb-70b6185ec21d" />
 
 - Evening rush hour (5pm to 6pm) is the highest-risk window for crashes
 - A small number of corridors account for a disproportionate share of crashes
