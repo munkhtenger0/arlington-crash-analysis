@@ -38,7 +38,7 @@ This project analyzes crash data across Arlington County to surface actionable i
 ## How to Run
 
 ```bash
-git clone https://github.com/yourusername/arlington-crash-analysis
+git clone https://github.com/munkhtenger0/arlington-crash-analysis
 cd arlington-crash-analysis
 pip install pandas matplotlib seaborn jupyter
 jupyter notebook Arlington_Crash_Analysis.ipynb
